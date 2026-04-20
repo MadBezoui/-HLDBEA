@@ -1,0 +1,9 @@
+# Define which algorithms are active
+NIBEA+: false
+NIBEA: true
+NSGA2: true
+SPEA2: false
+NSGA3: true
+RVEA: true
+MOEAD: true
+AGEMOEA: true

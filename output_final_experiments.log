@@ -1,0 +1,3528 @@
+Starting benchmark with Python 3.11 core (Dependencies resolved!)...
+Launching Experiment: final for 30 runs...
+Test problems: [('ZDT1', 30), ('ZDT2', 30), ('ZDT3', 30), ('ZDT4', 10), ('ZDT6', 10), ('DTLZ1', 7, 3), ('DTLZ2', 12, 3), ('DTLZ3', 12, 3), ('DTLZ4', 12, 3), ('DTLZ5', 12, 3), ('DTLZ6', 12, 3), ('DTLZ7', 22, 3), ('WFG1', 24, 3), ('WFG2', 24, 3), ('WFG3', 24, 3), ('WFG4', 24, 3)]
+Run n°  1 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.36097 GD = 0.00056 IGD = 0.45357 IGD+ = 0.27829
+NSGA2 : Hv = 0.63043 GD = 0.02298 IGD = 0.02290 IGD+ = 0.02288
+NSGA3 : Hv = 0.64420 GD = 0.01394 IGD = 0.01372 IGD+ = 0.01353
+RVEA : Hv = 0.47479 GD = 0.13713 IGD = 0.13504 IGD+ = 0.13504
+MOEAD : Hv = 0.00000 GD = 0.39891 IGD = 0.81146 IGD+ = 0.76439
+AGEMOEA : Hv = 0.59587 GD = 0.04770 IGD = 0.04684 IGD+ = 0.04683
+Run n°  2 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38024 GD = 0.00354 IGD = 0.38950 IGD+ = 0.22951
+NSGA2 : Hv = 0.62987 GD = 0.02357 IGD = 0.02286 IGD+ = 0.02282
+NSGA3 : Hv = 0.63980 GD = 0.01714 IGD = 0.01696 IGD+ = 0.01673
+RVEA : Hv = 0.53134 GD = 0.09701 IGD = 0.09263 IGD+ = 0.09260
+MOEAD : Hv = 0.18697 GD = 0.36853 IGD = 0.43469 IGD+ = 0.42907
+AGEMOEA : Hv = 0.60905 GD = 0.03761 IGD = 0.03845 IGD+ = 0.03843
+Run n°  3 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38115 GD = 0.00596 IGD = 0.33940 IGD+ = 0.20140
+NSGA2 : Hv = 0.63215 GD = 0.02172 IGD = 0.02164 IGD+ = 0.02156
+NSGA3 : Hv = 0.63456 GD = 0.02064 IGD = 0.02046 IGD+ = 0.02016
+RVEA : Hv = 0.49281 GD = 0.12314 IGD = 0.12416 IGD+ = 0.12416
+MOEAD : Hv = 0.35139 GD = 0.23285 IGD = 0.24161 IGD+ = 0.24161
+AGEMOEA : Hv = 0.61691 GD = 0.03219 IGD = 0.03250 IGD+ = 0.03248
+Run n°  4 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.36544 GD = 0.00490 IGD = 0.42930 IGD+ = 0.25812
+NSGA2 : Hv = 0.63474 GD = 0.02007 IGD = 0.02002 IGD+ = 0.01992
+NSGA3 : Hv = 0.64707 GD = 0.01185 IGD = 0.01181 IGD+ = 0.01158
+RVEA : Hv = 0.51390 GD = 0.10840 IGD = 0.10487 IGD+ = 0.10486
+MOEAD : Hv = 0.04975 GD = 0.37190 IGD = 0.65843 IGD+ = 0.62043
+AGEMOEA : Hv = 0.61256 GD = 0.03557 IGD = 0.03574 IGD+ = 0.03566
+Run n°  5 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38346 GD = 0.00330 IGD = 0.37505 IGD+ = 0.22011
+NSGA2 : Hv = 0.63428 GD = 0.02031 IGD = 0.02003 IGD+ = 0.02002
+NSGA3 : Hv = 0.62186 GD = 0.03006 IGD = 0.02957 IGD+ = 0.02923
+RVEA : Hv = 0.44007 GD = 0.16450 IGD = 0.16278 IGD+ = 0.16278
+MOEAD : Hv = 0.13076 GD = 0.45612 IGD = 0.48364 IGD+ = 0.48321
+AGEMOEA : Hv = 0.60909 GD = 0.03821 IGD = 0.03796 IGD+ = 0.03794
+Run n°  6 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+[HLDBEA] Restart triggered at gen 234: 20 individuals replaced (delta_HV=3.50e-11).
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.36884 GD = 0.00633 IGD = 0.42188 IGD+ = 0.25257
+NSGA2 : Hv = 0.59384 GD = 0.04809 IGD = 0.04952 IGD+ = 0.04952
+NSGA3 : Hv = 0.63698 GD = 0.01917 IGD = 0.01890 IGD+ = 0.01863
+RVEA : Hv = 0.55765 GD = 0.07828 IGD = 0.07134 IGD+ = 0.07133
+MOEAD : Hv = 0.19390 GD = 0.25630 IGD = 0.48103 IGD+ = 0.43979
+AGEMOEA : Hv = 0.62864 GD = 0.02440 IGD = 0.02425 IGD+ = 0.02424
+Run n°  7 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38042 GD = 0.00482 IGD = 0.38892 IGD+ = 0.22912
+NSGA2 : Hv = 0.63332 GD = 0.02126 IGD = 0.02057 IGD+ = 0.02055
+NSGA3 : Hv = 0.62685 GD = 0.02595 IGD = 0.02469 IGD+ = 0.02417
+RVEA : Hv = 0.49322 GD = 0.12266 IGD = 0.12248 IGD+ = 0.12247
+MOEAD : Hv = 0.01630 GD = 0.64598 IGD = 0.73040 IGD+ = 0.72856
+AGEMOEA : Hv = 0.61102 GD = 0.03656 IGD = 0.03683 IGD+ = 0.03682
+Run n°  8 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.40067 GD = 0.00315 IGD = 0.37502 IGD+ = 0.21914
+NSGA2 : Hv = 0.62511 GD = 0.02679 IGD = 0.02667 IGD+ = 0.02662
+NSGA3 : Hv = 0.63990 GD = 0.01712 IGD = 0.01680 IGD+ = 0.01655
+RVEA : Hv = 0.55687 GD = 0.07772 IGD = 0.07470 IGD+ = 0.07466
+MOEAD : Hv = 0.16818 GD = 0.38864 IGD = 0.41767 IGD+ = 0.41695
+AGEMOEA : Hv = 0.55287 GD = 0.07839 IGD = 0.07977 IGD+ = 0.07977
+Run n°  9 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.39998 GD = 0.00507 IGD = 0.37475 IGD+ = 0.21896
+NSGA2 : Hv = 0.62377 GD = 0.02767 IGD = 0.02735 IGD+ = 0.02725
+NSGA3 : Hv = 0.63660 GD = 0.01938 IGD = 0.01905 IGD+ = 0.01881
+RVEA : Hv = 0.54245 GD = 0.08778 IGD = 0.08525 IGD+ = 0.08523
+MOEAD : Hv = 0.04690 GD = 0.59896 IGD = 0.64962 IGD+ = 0.64913
+AGEMOEA : Hv = 0.61977 GD = 0.03038 IGD = 0.03033 IGD+ = 0.03029
+Run n° 10 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.37415 GD = 0.00510 IGD = 0.33014 IGD+ = 0.19929
+NSGA2 : Hv = 0.63468 GD = 0.02038 IGD = 0.01983 IGD+ = 0.01977
+NSGA3 : Hv = 0.62447 GD = 0.02764 IGD = 0.02743 IGD+ = 0.02708
+RVEA : Hv = 0.49427 GD = 0.12234 IGD = 0.12156 IGD+ = 0.12156
+MOEAD : Hv = 0.11948 GD = 0.36486 IGD = 0.54720 IGD+ = 0.52767
+AGEMOEA : Hv = 0.61191 GD = 0.03604 IGD = 0.03641 IGD+ = 0.03638
+Run n° 11 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38336 GD = 0.00346 IGD = 0.39089 IGD+ = 0.23032
+NSGA2 : Hv = 0.64163 GD = 0.01545 IGD = 0.01508 IGD+ = 0.01500
+NSGA3 : Hv = 0.64091 GD = 0.01641 IGD = 0.01620 IGD+ = 0.01570
+RVEA : Hv = 0.55150 GD = 0.08064 IGD = 0.07855 IGD+ = 0.07854
+MOEAD : Hv = 0.15699 GD = 0.31134 IGD = 0.51229 IGD+ = 0.47679
+AGEMOEA : Hv = 0.60233 GD = 0.04248 IGD = 0.04311 IGD+ = 0.04311
+Run n° 12 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38815 GD = 0.00419 IGD = 0.31719 IGD+ = 0.18995
+NSGA2 : Hv = 0.62683 GD = 0.02536 IGD = 0.02531 IGD+ = 0.02530
+NSGA3 : Hv = 0.62667 GD = 0.02678 IGD = 0.02647 IGD+ = 0.02605
+RVEA : Hv = 0.57142 GD = 0.06694 IGD = 0.06227 IGD+ = 0.06225
+MOEAD : Hv = 0.25998 GD = 0.28413 IGD = 0.36365 IGD+ = 0.35244
+AGEMOEA : Hv = 0.60072 GD = 0.04326 IGD = 0.04425 IGD+ = 0.04421
+Run n° 13 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38472 GD = 0.00211 IGD = 0.36450 IGD+ = 0.21372
+NSGA2 : Hv = 0.61573 GD = 0.03296 IGD = 0.03321 IGD+ = 0.03318
+NSGA3 : Hv = 0.64098 GD = 0.01626 IGD = 0.01605 IGD+ = 0.01579
+RVEA : Hv = 0.53231 GD = 0.09519 IGD = 0.09201 IGD+ = 0.09201
+MOEAD : Hv = 0.01568 GD = 0.68335 IGD = 0.73336 IGD+ = 0.73238
+AGEMOEA : Hv = 0.63206 GD = 0.02209 IGD = 0.02178 IGD+ = 0.02176
+Run n° 14 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.37330 GD = 0.00156 IGD = 0.41055 IGD+ = 0.24423
+NSGA2 : Hv = 0.63050 GD = 0.02281 IGD = 0.02262 IGD+ = 0.02262
+NSGA3 : Hv = 0.62413 GD = 0.02735 IGD = 0.02712 IGD+ = 0.02679
+RVEA : Hv = 0.50084 GD = 0.11722 IGD = 0.11744 IGD+ = 0.11743
+MOEAD : Hv = 0.25469 GD = 0.29254 IGD = 0.33988 IGD+ = 0.33742
+AGEMOEA : Hv = 0.63833 GD = 0.01771 IGD = 0.01750 IGD+ = 0.01744
+Run n° 15 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.37562 GD = 0.00001 IGD = 0.40423 IGD+ = 0.23970
+NSGA2 : Hv = 0.61233 GD = 0.03541 IGD = 0.03580 IGD+ = 0.03579
+NSGA3 : Hv = 0.64607 GD = 0.01257 IGD = 0.01232 IGD+ = 0.01217
+RVEA : Hv = 0.54104 GD = 0.08831 IGD = 0.08562 IGD+ = 0.08562
+MOEAD : Hv = 0.09692 GD = 0.43399 IGD = 0.56826 IGD+ = 0.55649
+AGEMOEA : Hv = 0.61909 GD = 0.03085 IGD = 0.03104 IGD+ = 0.03098
+Run n° 16 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38111 GD = 0.00635 IGD = 0.33931 IGD+ = 0.20137
+NSGA2 : Hv = 0.58094 GD = 0.05784 IGD = 0.05784 IGD+ = 0.05783
+NSGA3 : Hv = 0.61808 GD = 0.03272 IGD = 0.03248 IGD+ = 0.03220
+RVEA : Hv = 0.54325 GD = 0.08654 IGD = 0.08574 IGD+ = 0.08574
+MOEAD : Hv = 0.14979 GD = 0.38303 IGD = 0.48953 IGD+ = 0.48141
+AGEMOEA : Hv = 0.62753 GD = 0.02534 IGD = 0.02480 IGD+ = 0.02479
+Run n° 17 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38481 GD = 0.00228 IGD = 0.35566 IGD+ = 0.20880
+NSGA2 : Hv = 0.59380 GD = 0.04910 IGD = 0.04941 IGD+ = 0.04941
+NSGA3 : Hv = 0.59091 GD = 0.05151 IGD = 0.05139 IGD+ = 0.05139
+RVEA : Hv = 0.45501 GD = 0.15147 IGD = 0.15287 IGD+ = 0.15287
+MOEAD : Hv = 0.17446 GD = 0.41206 IGD = 0.42222 IGD+ = 0.42221
+AGEMOEA : Hv = 0.61082 GD = 0.03627 IGD = 0.03682 IGD+ = 0.03682
+Run n° 18 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38333 GD = 0.00523 IGD = 0.37582 IGD+ = 0.22059
+NSGA2 : Hv = 0.60240 GD = 0.04252 IGD = 0.04298 IGD+ = 0.04297
+NSGA3 : Hv = 0.64618 GD = 0.01262 IGD = 0.01248 IGD+ = 0.01225
+RVEA : Hv = 0.55169 GD = 0.08038 IGD = 0.07893 IGD+ = 0.07893
+MOEAD : Hv = 0.04790 GD = 0.43537 IGD = 0.65431 IGD+ = 0.63216
+AGEMOEA : Hv = 0.61796 GD = 0.03162 IGD = 0.03173 IGD+ = 0.03173
+Run n° 19 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.36995 GD = 0.00781 IGD = 0.42005 IGD+ = 0.25411
+NSGA2 : Hv = 0.63038 GD = 0.02350 IGD = 0.02313 IGD+ = 0.02312
+NSGA3 : Hv = 0.63118 GD = 0.02259 IGD = 0.02237 IGD+ = 0.02203
+RVEA : Hv = 0.55932 GD = 0.07565 IGD = 0.07281 IGD+ = 0.07278
+MOEAD : Hv = 0.27470 GD = 0.25175 IGD = 0.35724 IGD+ = 0.34117
+AGEMOEA : Hv = 0.59917 GD = 0.04502 IGD = 0.04564 IGD+ = 0.04564
+Run n° 20 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38488 GD = 0.00541 IGD = 0.35746 IGD+ = 0.20977
+NSGA2 : Hv = 0.63239 GD = 0.02121 IGD = 0.02128 IGD+ = 0.02127
+NSGA3 : Hv = 0.64274 GD = 0.01481 IGD = 0.01463 IGD+ = 0.01444
+RVEA : Hv = 0.57321 GD = 0.06497 IGD = 0.06309 IGD+ = 0.06309
+MOEAD : Hv = 0.23543 GD = 0.35033 IGD = 0.35412 IGD+ = 0.35412
+AGEMOEA : Hv = 0.61918 GD = 0.03115 IGD = 0.03111 IGD+ = 0.03105
+Run n° 21 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.36832 GD = 0.00706 IGD = 0.42282 IGD+ = 0.25324
+NSGA2 : Hv = 0.62285 GD = 0.02858 IGD = 0.02828 IGD+ = 0.02824
+NSGA3 : Hv = 0.64298 GD = 0.01469 IGD = 0.01453 IGD+ = 0.01435
+RVEA : Hv = 0.53194 GD = 0.09627 IGD = 0.09142 IGD+ = 0.09142
+MOEAD : Hv = 0.15219 GD = 0.42000 IGD = 0.43860 IGD+ = 0.43794
+AGEMOEA : Hv = 0.63032 GD = 0.02317 IGD = 0.02302 IGD+ = 0.02301
+Run n° 22 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38478 GD = 0.00045 IGD = 0.36359 IGD+ = 0.21319
+NSGA2 : Hv = 0.61060 GD = 0.03617 IGD = 0.03676 IGD+ = 0.03676
+NSGA3 : Hv = 0.64558 GD = 0.01280 IGD = 0.01265 IGD+ = 0.01248
+RVEA : Hv = 0.49790 GD = 0.12026 IGD = 0.11690 IGD+ = 0.11688
+MOEAD : Hv = 0.11314 GD = 0.32354 IGD = 0.57276 IGD+ = 0.53501
+AGEMOEA : Hv = 0.63602 GD = 0.01960 IGD = 0.01911 IGD+ = 0.01906
+Run n° 23 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38111 GD = 0.00636 IGD = 0.33931 IGD+ = 0.20137
+NSGA2 : Hv = 0.63669 GD = 0.01858 IGD = 0.01848 IGD+ = 0.01845
+NSGA3 : Hv = 0.61493 GD = 0.03479 IGD = 0.03400 IGD+ = 0.03375
+RVEA : Hv = 0.55128 GD = 0.08201 IGD = 0.07803 IGD+ = 0.07803
+MOEAD : Hv = 0.24110 GD = 0.31183 IGD = 0.35345 IGD+ = 0.35073
+AGEMOEA : Hv = 0.63029 GD = 0.02323 IGD = 0.02313 IGD+ = 0.02310
+Run n° 24 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.40490 GD = 0.00482 IGD = 0.34737 IGD+ = 0.20126
+NSGA2 : Hv = 0.63727 GD = 0.01799 IGD = 0.01797 IGD+ = 0.01793
+NSGA3 : Hv = 0.64067 GD = 0.01649 IGD = 0.01633 IGD+ = 0.01613
+RVEA : Hv = 0.50073 GD = 0.11717 IGD = 0.11677 IGD+ = 0.11676
+MOEAD : Hv = 0.02780 GD = 0.49802 IGD = 0.68807 IGD+ = 0.67256
+AGEMOEA : Hv = 0.61429 GD = 0.03439 IGD = 0.03457 IGD+ = 0.03450
+Run n° 25 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38432 GD = 0.00147 IGD = 0.35054 IGD+ = 0.20619
+NSGA2 : Hv = 0.62417 GD = 0.02720 IGD = 0.02736 IGD+ = 0.02731
+NSGA3 : Hv = 0.59765 GD = 0.04667 IGD = 0.04623 IGD+ = 0.04622
+RVEA : Hv = 0.53246 GD = 0.09499 IGD = 0.09321 IGD+ = 0.09321
+MOEAD : Hv = 0.11383 GD = 0.47853 IGD = 0.52345 IGD+ = 0.52249
+AGEMOEA : Hv = 0.61159 GD = 0.03647 IGD = 0.03671 IGD+ = 0.03660
+Run n° 26 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.38458 GD = 0.00619 IGD = 0.36637 IGD+ = 0.21482
+NSGA2 : Hv = 0.62418 GD = 0.02759 IGD = 0.02692 IGD+ = 0.02690
+NSGA3 : Hv = 0.61502 GD = 0.03440 IGD = 0.03403 IGD+ = 0.03378
+RVEA : Hv = 0.46027 GD = 0.14841 IGD = 0.14553 IGD+ = 0.14553
+MOEAD : Hv = 0.06659 GD = 0.48407 IGD = 0.61358 IGD+ = 0.60629
+AGEMOEA : Hv = 0.57596 GD = 0.06044 IGD = 0.06229 IGD+ = 0.06229
+Run n° 27 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.43692 GD = 0.00441 IGD = 0.28797 IGD+ = 0.16414
+NSGA2 : Hv = 0.63869 GD = 0.01682 IGD = 0.01703 IGD+ = 0.01693
+NSGA3 : Hv = 0.63030 GD = 0.02414 IGD = 0.02377 IGD+ = 0.02336
+RVEA : Hv = 0.51455 GD = 0.10822 IGD = 0.10421 IGD+ = 0.10417
+MOEAD : Hv = 0.08783 GD = 0.47970 IGD = 0.57111 IGD+ = 0.56386
+AGEMOEA : Hv = 0.62118 GD = 0.02974 IGD = 0.02930 IGD+ = 0.02927
+Run n° 28 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.40223 GD = 0.00223 IGD = 0.35956 IGD+ = 0.20890
+NSGA2 : Hv = 0.61943 GD = 0.03066 IGD = 0.03040 IGD+ = 0.03039
+NSGA3 : Hv = 0.63226 GD = 0.02182 IGD = 0.02175 IGD+ = 0.02122
+RVEA : Hv = 0.55796 GD = 0.07585 IGD = 0.07453 IGD+ = 0.07453
+MOEAD : Hv = 0.02058 GD = 0.66966 IGD = 0.72665 IGD+ = 0.72571
+AGEMOEA : Hv = 0.60118 GD = 0.04322 IGD = 0.04404 IGD+ = 0.04403
+Run n° 29 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.40898 GD = 0.00343 IGD = 0.34490 IGD+ = 0.20133
+NSGA2 : Hv = 0.60654 GD = 0.03975 IGD = 0.03879 IGD+ = 0.03876
+NSGA3 : Hv = 0.63709 GD = 0.01912 IGD = 0.01885 IGD+ = 0.01857
+RVEA : Hv = 0.48483 GD = 0.13015 IGD = 0.12910 IGD+ = 0.12910
+MOEAD : Hv = 0.01066 GD = 0.68235 IGD = 0.75721 IGD+ = 0.75616
+AGEMOEA : Hv = 0.62824 GD = 0.02492 IGD = 0.02463 IGD+ = 0.02460
+Run n° 30 / 30
+*** PROBLEM : ZDT1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.44868 GD = 0.00333 IGD = 0.33191 IGD+ = 0.19041
+NSGA2 : Hv = 0.63549 GD = 0.01969 IGD = 0.01923 IGD+ = 0.01917
+NSGA3 : Hv = 0.63746 GD = 0.01883 IGD = 0.01855 IGD+ = 0.01832
+RVEA : Hv = 0.55123 GD = 0.08194 IGD = 0.07733 IGD+ = 0.07723
+MOEAD : Hv = 0.12259 GD = 0.46490 IGD = 0.50470 IGD+ = 0.50403
+AGEMOEA : Hv = 0.61555 GD = 0.03349 IGD = 0.03352 IGD+ = 0.03352
+GENERATING AND SAVING FIGURES...
+[ZDT1] Box plots successfully saved to: generated/final/ZDT1_boxplots.png
+Selected run #5 as the median. (HV = 0.38346)
+Selected run #2 as the median. (HV = 0.62987)
+Selected run #6 as the median. (HV = 0.63698)
+Selected run #13 as the median. (HV = 0.53231)
+Selected run #30 as the median. (HV = 0.12259)
+Selected run #30 as the median. (HV = 0.61555)
+Run n°  1 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.01036 GD = 0.00317 IGD = 0.52114 IGD+ = 0.32464
+NSGA2 : Hv = 0.28201 GD = 0.03532 IGD = 0.03599 IGD+ = 0.03596
+NSGA3 : Hv = 0.00000 GD = 0.02852 IGD = 0.49108 IGD+ = 0.34037
+RVEA : Hv = 0.11911 GD = 0.21579 IGD = 0.20848 IGD+ = 0.20845
+MOEAD : Hv = 0.00000 GD = 0.55212 IGD = 1.02301 IGD+ = 0.88703
+AGEMOEA : Hv = 0.00000 GD = 0.02408 IGD = 0.52573 IGD+ = 0.34588
+Run n°  2 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.26649 GD = 0.04849 IGD = 0.04957 IGD+ = 0.04951
+NSGA3 : Hv = 0.29259 GD = 0.02737 IGD = 0.02821 IGD+ = 0.02817
+RVEA : Hv = 0.11640 GD = 0.21395 IGD = 0.21285 IGD+ = 0.21284
+MOEAD : Hv = 0.00000 GD = 0.26100 IGD = 0.78341 IGD+ = 0.59602
+AGEMOEA : Hv = 0.00000 GD = 0.07370 IGD = 0.49172 IGD+ = 0.37421
+Run n°  3 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.19334 GD = 0.11863 IGD = 0.12463 IGD+ = 0.12462
+NSGA3 : Hv = 0.28211 GD = 0.03556 IGD = 0.03636 IGD+ = 0.03527
+RVEA : Hv = 0.11981 GD = 0.21196 IGD = 0.21411 IGD+ = 0.21396
+MOEAD : Hv = 0.00000 GD = 0.21768 IGD = 0.74758 IGD+ = 0.54949
+AGEMOEA : Hv = 0.00783 GD = 0.02350 IGD = 0.47187 IGD+ = 0.33007
+Run n°  4 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00010 GD = 0.00004 IGD = 0.60179 IGD+ = 0.33492
+NSGA2 : Hv = 0.29592 GD = 0.02421 IGD = 0.02490 IGD+ = 0.02481
+NSGA3 : Hv = 0.28904 GD = 0.03025 IGD = 0.03099 IGD+ = 0.03096
+RVEA : Hv = 0.12113 GD = 0.21222 IGD = 0.20740 IGD+ = 0.20726
+MOEAD : Hv = 0.00000 GD = 0.47672 IGD = 0.95869 IGD+ = 0.81016
+AGEMOEA : Hv = 0.29152 GD = 0.02813 IGD = 0.02866 IGD+ = 0.02851
+Run n°  5 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.26007 GD = 0.05426 IGD = 0.05590 IGD+ = 0.05589
+NSGA3 : Hv = 0.29890 GD = 0.02246 IGD = 0.02285 IGD+ = 0.02273
+RVEA : Hv = 0.14589 GD = 0.17588 IGD = 0.17101 IGD+ = 0.17034
+MOEAD : Hv = 0.00000 GD = 0.53277 IGD = 1.00892 IGD+ = 0.86777
+AGEMOEA : Hv = 0.29240 GD = 0.02744 IGD = 0.02779 IGD+ = 0.02762
+Run n°  6 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.26723 GD = 0.04796 IGD = 0.04860 IGD+ = 0.04841
+NSGA3 : Hv = 0.00958 GD = 0.02561 IGD = 0.46566 IGD+ = 0.32814
+RVEA : Hv = 0.11774 GD = 0.22370 IGD = 0.21468 IGD+ = 0.21435
+MOEAD : Hv = 0.00000 GD = 0.55567 IGD = 1.02404 IGD+ = 0.88310
+AGEMOEA : Hv = 0.30041 GD = 0.02118 IGD = 0.02152 IGD+ = 0.02144
+Run n°  7 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.27690 GD = 0.03979 IGD = 0.04076 IGD+ = 0.04065
+NSGA3 : Hv = 0.05573 GD = 0.02789 IGD = 0.36282 IGD+ = 0.28156
+RVEA : Hv = 0.14473 GD = 0.17957 IGD = 0.17554 IGD+ = 0.17538
+MOEAD : Hv = 0.00000 GD = 0.18530 IGD = 0.72583 IGD+ = 0.52032
+AGEMOEA : Hv = 0.28555 GD = 0.03275 IGD = 0.03309 IGD+ = 0.03307
+Run n°  8 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.26017 GD = 0.05391 IGD = 0.05463 IGD+ = 0.05457
+NSGA3 : Hv = 0.31270 GD = 0.01229 IGD = 0.01229 IGD+ = 0.01227
+RVEA : Hv = 0.14407 GD = 0.17767 IGD = 0.17703 IGD+ = 0.17687
+MOEAD : Hv = 0.00000 GD = 0.27327 IGD = 0.79307 IGD+ = 0.60829
+AGEMOEA : Hv = 0.27467 GD = 0.04208 IGD = 0.04268 IGD+ = 0.04252
+Run n°  9 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00375 GD = 0.01663 IGD = 0.53898 IGD+ = 0.33127
+NSGA2 : Hv = 0.21342 GD = 0.09856 IGD = 0.09994 IGD+ = 0.09992
+NSGA3 : Hv = 0.06602 GD = 0.03497 IGD = 0.34221 IGD+ = 0.27267
+RVEA : Hv = 0.12906 GD = 0.20036 IGD = 0.20165 IGD+ = 0.20137
+MOEAD : Hv = 0.00000 GD = 0.47079 IGD = 0.93865 IGD+ = 0.78436
+AGEMOEA : Hv = 0.29347 GD = 0.02647 IGD = 0.02706 IGD+ = 0.02697
+Run n° 10 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.14926 GD = 0.16934 IGD = 0.18009 IGD+ = 0.18009
+NSGA3 : Hv = 0.24500 GD = 0.06797 IGD = 0.07027 IGD+ = 0.07026
+RVEA : Hv = 0.13873 GD = 0.18427 IGD = 0.18775 IGD+ = 0.18775
+MOEAD : Hv = 0.00000 GD = 0.46258 IGD = 0.94993 IGD+ = 0.79759
+AGEMOEA : Hv = 0.27126 GD = 0.04486 IGD = 0.04561 IGD+ = 0.04560
+Run n° 11 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.29251 GD = 0.02703 IGD = 0.02760 IGD+ = 0.02758
+NSGA3 : Hv = 0.00773 GD = 0.01591 IGD = 0.48574 IGD+ = 0.32872
+RVEA : Hv = 0.18495 GD = 0.12992 IGD = 0.12530 IGD+ = 0.12526
+MOEAD : Hv = 0.00000 GD = 0.13814 IGD = 0.69062 IGD+ = 0.47314
+AGEMOEA : Hv = 0.00000 GD = 0.02847 IGD = 0.60294 IGD+ = 0.36191
+Run n° 12 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.01337 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.27745 GD = 0.03971 IGD = 0.04122 IGD+ = 0.04037
+NSGA3 : Hv = 0.30530 GD = 0.01769 IGD = 0.01793 IGD+ = 0.01789
+RVEA : Hv = 0.12999 GD = 0.19712 IGD = 0.19596 IGD+ = 0.19575
+MOEAD : Hv = 0.00000 GD = 0.29129 IGD = 0.80737 IGD+ = 0.62630
+AGEMOEA : Hv = 0.27934 GD = 0.03817 IGD = 0.03849 IGD+ = 0.03845
+Run n° 13 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00023 GD = 0.00409 IGD = 0.59709 IGD+ = 0.33482
+NSGA2 : Hv = 0.24881 GD = 0.06437 IGD = 0.06578 IGD+ = 0.06576
+NSGA3 : Hv = 0.29575 GD = 0.02485 IGD = 0.02520 IGD+ = 0.02512
+RVEA : Hv = 0.20458 GD = 0.10958 IGD = 0.10473 IGD+ = 0.10468
+MOEAD : Hv = 0.00000 GD = 0.23540 IGD = 0.76353 IGD+ = 0.57042
+AGEMOEA : Hv = 0.29898 GD = 0.02248 IGD = 0.02270 IGD+ = 0.02259
+Run n° 14 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.23907 GD = 0.07323 IGD = 0.07631 IGD+ = 0.07630
+NSGA3 : Hv = 0.28709 GD = 0.03056 IGD = 0.03167 IGD+ = 0.03161
+RVEA : Hv = 0.17490 GD = 0.14094 IGD = 0.13587 IGD+ = 0.13567
+MOEAD : Hv = 0.00000 GD = 0.79965 IGD = 1.24786 IGD+ = 1.13461
+AGEMOEA : Hv = 0.26226 GD = 0.05237 IGD = 0.05357 IGD+ = 0.05356
+Run n° 15 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+[HLDBEA] Restart triggered at gen 152: 20 individuals replaced (delta_HV=0.00e+00).
+[HLDBEA] Restart triggered at gen 229: 20 individuals replaced (delta_HV=0.00e+00).
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00265 GD = 0.01108 IGD = 0.56542 IGD+ = 0.33239
+NSGA2 : Hv = 0.28691 GD = 0.03161 IGD = 0.03240 IGD+ = 0.03235
+NSGA3 : Hv = 0.00422 GD = 0.02875 IGD = 0.47078 IGD+ = 0.33414
+RVEA : Hv = 0.12643 GD = 0.20238 IGD = 0.20192 IGD+ = 0.20186
+MOEAD : Hv = 0.00000 GD = 0.94537 IGD = 1.38627 IGD+ = 1.28039
+AGEMOEA : Hv = 0.26669 GD = 0.04868 IGD = 0.04835 IGD+ = 0.04828
+Run n° 16 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.29208 GD = 0.02739 IGD = 0.02819 IGD+ = 0.02812
+NSGA3 : Hv = 0.29386 GD = 0.02620 IGD = 0.02696 IGD+ = 0.02663
+RVEA : Hv = 0.17241 GD = 0.14440 IGD = 0.13843 IGD+ = 0.13821
+MOEAD : Hv = 0.00000 GD = 0.58756 IGD = 1.02670 IGD+ = 0.88564
+AGEMOEA : Hv = 0.31465 GD = 0.01081 IGD = 0.01109 IGD+ = 0.01090
+Run n° 17 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00086 GD = 0.00009 IGD = 0.58476 IGD+ = 0.33416
+NSGA2 : Hv = 0.26274 GD = 0.05195 IGD = 0.05308 IGD+ = 0.05300
+NSGA3 : Hv = 0.23932 GD = 0.07155 IGD = 0.07298 IGD+ = 0.07298
+RVEA : Hv = 0.13406 GD = 0.19210 IGD = 0.19314 IGD+ = 0.19302
+MOEAD : Hv = 0.00000 GD = 0.33534 IGD = 0.84303 IGD+ = 0.67036
+AGEMOEA : Hv = 0.25394 GD = 0.05955 IGD = 0.06143 IGD+ = 0.06139
+Run n° 18 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+[HLDBEA] Restart triggered at gen 225: 20 individuals replaced (delta_HV=0.00e+00).
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.28776 GD = 0.03080 IGD = 0.03171 IGD+ = 0.03170
+NSGA3 : Hv = 0.26570 GD = 0.04879 IGD = 0.05047 IGD+ = 0.05036
+RVEA : Hv = 0.16901 GD = 0.15073 IGD = 0.14782 IGD+ = 0.14771
+MOEAD : Hv = 0.00000 GD = 0.29153 IGD = 0.80757 IGD+ = 0.62654
+AGEMOEA : Hv = 0.15978 GD = 0.01840 IGD = 0.20985 IGD+ = 0.17505
+Run n° 19 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00003 IGD = 0.61042 IGD+ = 0.33502
+NSGA2 : Hv = 0.27979 GD = 0.03722 IGD = 0.03826 IGD+ = 0.03811
+NSGA3 : Hv = 0.00000 GD = 0.02197 IGD = 0.56761 IGD+ = 0.35305
+RVEA : Hv = 0.17657 GD = 0.13945 IGD = 0.13671 IGD+ = 0.13651
+MOEAD : Hv = 0.00000 GD = 0.70059 IGD = 1.15680 IGD+ = 1.03112
+AGEMOEA : Hv = 0.29153 GD = 0.02853 IGD = 0.02889 IGD+ = 0.02886
+Run n° 20 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.29165 GD = 0.02782 IGD = 0.02832 IGD+ = 0.02829
+NSGA3 : Hv = 0.03402 GD = 0.01243 IGD = 0.42416 IGD+ = 0.30188
+RVEA : Hv = 0.06962 GD = 0.29327 IGD = 0.30538 IGD+ = 0.30537
+MOEAD : Hv = 0.00000 GD = 0.64513 IGD = 1.11081 IGD+ = 0.98014
+AGEMOEA : Hv = 0.09898 GD = 0.03194 IGD = 0.29153 IGD+ = 0.23869
+Run n° 21 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00086 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.26982 GD = 0.04562 IGD = 0.04724 IGD+ = 0.04700
+NSGA3 : Hv = 0.01016 GD = 0.00890 IGD = 0.49514 IGD+ = 0.32553
+RVEA : Hv = 0.15308 GD = 0.16759 IGD = 0.16431 IGD+ = 0.16367
+MOEAD : Hv = 0.00000 GD = 0.58485 IGD = 1.05698 IGD+ = 0.91987
+AGEMOEA : Hv = 0.26952 GD = 0.04608 IGD = 0.04739 IGD+ = 0.04730
+Run n° 22 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00939 GD = 0.00048 IGD = 0.52547 IGD+ = 0.32562
+NSGA2 : Hv = 0.27627 GD = 0.04058 IGD = 0.04121 IGD+ = 0.04117
+NSGA3 : Hv = 0.29178 GD = 0.02824 IGD = 0.02899 IGD+ = 0.02893
+RVEA : Hv = 0.18352 GD = 0.13884 IGD = 0.12398 IGD+ = 0.12352
+MOEAD : Hv = 0.00000 GD = 0.42176 IGD = 0.90957 IGD+ = 0.75022
+AGEMOEA : Hv = 0.08702 GD = 0.02822 IGD = 0.31383 IGD+ = 0.25011
+Run n° 23 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.29316 GD = 0.02775 IGD = 0.02700 IGD+ = 0.02637
+NSGA3 : Hv = 0.29032 GD = 0.02712 IGD = 0.02876 IGD+ = 0.02814
+RVEA : Hv = 0.15353 GD = 0.16575 IGD = 0.16773 IGD+ = 0.16770
+MOEAD : Hv = 0.00000 GD = 0.49345 IGD = 0.97472 IGD+ = 0.82834
+AGEMOEA : Hv = 0.29799 GD = 0.02322 IGD = 0.02313 IGD+ = 0.02280
+Run n° 24 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00257 GD = 0.00080 IGD = 0.56604 IGD+ = 0.33246
+NSGA2 : Hv = 0.28445 GD = 0.03371 IGD = 0.03460 IGD+ = 0.03457
+NSGA3 : Hv = 0.00000 GD = 0.03543 IGD = 0.52144 IGD+ = 0.35498
+RVEA : Hv = 0.18516 GD = 0.13025 IGD = 0.12864 IGD+ = 0.12862
+MOEAD : Hv = 0.00000 GD = 0.69537 IGD = 1.15613 IGD+ = 1.03039
+AGEMOEA : Hv = 0.02088 GD = 0.00955 IGD = 0.46118 IGD+ = 0.31479
+Run n° 25 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00010 IGD = 0.61038 IGD+ = 0.33502
+NSGA2 : Hv = 0.21493 GD = 0.09668 IGD = 0.10055 IGD+ = 0.10055
+NSGA3 : Hv = 0.27340 GD = 0.04257 IGD = 0.04213 IGD+ = 0.04179
+RVEA : Hv = 0.22262 GD = 0.09037 IGD = 0.08806 IGD+ = 0.08779
+MOEAD : Hv = 0.00000 GD = 0.47874 IGD = 0.96065 IGD+ = 0.80994
+AGEMOEA : Hv = 0.13823 GD = 0.01472 IGD = 0.24214 IGD+ = 0.19702
+Run n° 26 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.22441 GD = 0.08726 IGD = 0.08847 IGD+ = 0.08846
+NSGA3 : Hv = 0.26556 GD = 0.04862 IGD = 0.05016 IGD+ = 0.05005
+RVEA : Hv = 0.18009 GD = 0.13515 IGD = 0.13210 IGD+ = 0.13207
+MOEAD : Hv = 0.00000 GD = 0.55432 IGD = 1.02995 IGD+ = 0.88934
+AGEMOEA : Hv = 0.24664 GD = 0.02205 IGD = 0.09337 IGD+ = 0.08467
+Run n° 27 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.28590 GD = 0.03216 IGD = 0.03295 IGD+ = 0.03293
+NSGA3 : Hv = 0.28253 GD = 0.03540 IGD = 0.03607 IGD+ = 0.03592
+RVEA : Hv = 0.13617 GD = 0.18842 IGD = 0.18650 IGD+ = 0.18626
+MOEAD : Hv = 0.00000 GD = 0.86311 IGD = 1.30971 IGD+ = 1.19797
+AGEMOEA : Hv = 0.00000 GD = 0.01896 IGD = 0.53449 IGD+ = 0.34433
+Run n° 28 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.23485 GD = 0.07714 IGD = 0.07967 IGD+ = 0.07961
+NSGA3 : Hv = 0.28619 GD = 0.02964 IGD = 0.03447 IGD+ = 0.03168
+RVEA : Hv = 0.15575 GD = 0.16613 IGD = 0.16313 IGD+ = 0.16310
+MOEAD : Hv = 0.00000 GD = 0.91341 IGD = 1.27151 IGD+ = 1.15672
+AGEMOEA : Hv = 0.19490 GD = 0.03195 IGD = 0.15598 IGD+ = 0.13896
+Run n° 29 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.00000 IGD = 0.61046 IGD+ = 0.33502
+NSGA2 : Hv = 0.29288 GD = 0.02674 IGD = 0.02720 IGD+ = 0.02716
+NSGA3 : Hv = 0.26250 GD = 0.05209 IGD = 0.05267 IGD+ = 0.05266
+RVEA : Hv = 0.13346 GD = 0.19146 IGD = 0.19124 IGD+ = 0.19124
+MOEAD : Hv = 0.00000 GD = 0.91724 IGD = 1.35545 IGD+ = 1.24764
+AGEMOEA : Hv = 0.28684 GD = 0.03210 IGD = 0.03287 IGD+ = 0.03220
+Run n° 30 / 30
+*** PROBLEM : ZDT2 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00038 GD = 0.00006 IGD = 0.59335 IGD+ = 0.33463
+NSGA2 : Hv = 0.28241 GD = 0.03564 IGD = 0.03597 IGD+ = 0.03594
+NSGA3 : Hv = 0.28030 GD = 0.03730 IGD = 0.03818 IGD+ = 0.03818
+RVEA : Hv = 0.18476 GD = 0.12919 IGD = 0.12756 IGD+ = 0.12744
+MOEAD : Hv = 0.00000 GD = 0.77860 IGD = 1.23199 IGD+ = 1.11361
+AGEMOEA : Hv = 0.29043 GD = 0.02901 IGD = 0.02961 IGD+ = 0.02957
+GENERATING AND SAVING FIGURES...
+[ZDT2] Box plots successfully saved to: generated/final/ZDT2_boxplots.png
+Selected run #2 as the median. (HV = 0.00000)
+Selected run #7 as the median. (HV = 0.27690)
+Selected run #25 as the median. (HV = 0.27340)
+Selected run #5 as the median. (HV = 0.14589)
+Selected run #14 as the median. (HV = 0.00000)
+Selected run #21 as the median. (HV = 0.26952)
+Run n°  1 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.29482 GD = 0.00058 IGD = 0.65453 IGD+ = 0.29528
+NSGA2 : Hv = 0.75596 GD = 0.00936 IGD = 0.01088 IGD+ = 0.00899
+NSGA3 : Hv = 0.73885 GD = 0.01291 IGD = 0.01805 IGD+ = 0.01596
+RVEA : Hv = 0.59094 GD = 0.10447 IGD = 0.10193 IGD+ = 0.10166
+MOEAD : Hv = 0.25660 GD = 0.31844 IGD = 0.36153 IGD+ = 0.36153
+AGEMOEA : Hv = 0.75195 GD = 0.01131 IGD = 0.01218 IGD+ = 0.01051
+Run n°  2 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00817 GD = 0.00125 IGD = 0.90881 IGD+ = 0.41415
+NSGA2 : Hv = 0.71781 GD = 0.02033 IGD = 0.02784 IGD+ = 0.02666
+NSGA3 : Hv = 0.74415 GD = 0.01131 IGD = 0.01569 IGD+ = 0.01335
+RVEA : Hv = 0.58597 GD = 0.10629 IGD = 0.10529 IGD+ = 0.10511
+MOEAD : Hv = 0.21405 GD = 0.38520 IGD = 0.55303 IGD+ = 0.54913
+AGEMOEA : Hv = 0.71267 GD = 0.02441 IGD = 0.03063 IGD+ = 0.02956
+Run n°  3 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00202 GD = 0.00054 IGD = 0.91752 IGD+ = 0.41749
+NSGA2 : Hv = 0.74125 GD = 0.01214 IGD = 0.07266 IGD+ = 0.05770
+NSGA3 : Hv = 0.73886 GD = 0.01178 IGD = 0.01768 IGD+ = 0.01590
+RVEA : Hv = 0.58267 GD = 0.11118 IGD = 0.10687 IGD+ = 0.10656
+MOEAD : Hv = 0.35386 GD = 0.24921 IGD = 0.37318 IGD+ = 0.36833
+AGEMOEA : Hv = 0.73821 GD = 0.01496 IGD = 0.01764 IGD+ = 0.01633
+Run n°  4 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.02968 GD = 0.00258 IGD = 0.80990 IGD+ = 0.40271
+NSGA2 : Hv = 0.70892 GD = 0.02300 IGD = 0.03221 IGD+ = 0.03117
+NSGA3 : Hv = 0.74729 GD = 0.01037 IGD = 0.01447 IGD+ = 0.01215
+RVEA : Hv = 0.59754 GD = 0.10374 IGD = 0.09820 IGD+ = 0.09792
+MOEAD : Hv = 0.29944 GD = 0.25217 IGD = 0.37261 IGD+ = 0.36761
+AGEMOEA : Hv = 0.75476 GD = 0.01003 IGD = 0.01117 IGD+ = 0.00931
+Run n°  5 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.29274 GD = 0.00039 IGD = 0.65643 IGD+ = 0.29608
+NSGA2 : Hv = 0.72369 GD = 0.01900 IGD = 0.02534 IGD+ = 0.02366
+NSGA3 : Hv = 0.75948 GD = 0.00762 IGD = 0.00999 IGD+ = 0.00725
+RVEA : Hv = 0.38477 GD = 0.28351 IGD = 0.24034 IGD+ = 0.24034
+MOEAD : Hv = 0.30485 GD = 0.32046 IGD = 0.32482 IGD+ = 0.32479
+AGEMOEA : Hv = 0.71871 GD = 0.02056 IGD = 0.02715 IGD+ = 0.02618
+Run n°  6 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00259 GD = 0.00006 IGD = 0.91707 IGD+ = 0.41717
+NSGA2 : Hv = 0.75208 GD = 0.01003 IGD = 0.01199 IGD+ = 0.01049
+NSGA3 : Hv = 0.70830 GD = 0.02162 IGD = 0.03279 IGD+ = 0.03155
+RVEA : Hv = 0.60979 GD = 0.09637 IGD = 0.09140 IGD+ = 0.09111
+MOEAD : Hv = 0.20956 GD = 0.31354 IGD = 0.35186 IGD+ = 0.35186
+AGEMOEA : Hv = 0.75982 GD = 0.00928 IGD = 0.01003 IGD+ = 0.00752
+Run n°  7 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00211 GD = 0.00047 IGD = 0.91746 IGD+ = 0.41744
+NSGA2 : Hv = 0.73367 GD = 0.01558 IGD = 0.01993 IGD+ = 0.01861
+NSGA3 : Hv = 0.75064 GD = 0.00938 IGD = 0.01315 IGD+ = 0.01086
+RVEA : Hv = 0.58856 GD = 0.10581 IGD = 0.10474 IGD+ = 0.10462
+MOEAD : Hv = 0.20793 GD = 0.38481 IGD = 0.42266 IGD+ = 0.42266
+AGEMOEA : Hv = 0.74916 GD = 0.01207 IGD = 0.01351 IGD+ = 0.01157
+Run n°  8 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00197 GD = 0.00058 IGD = 0.91755 IGD+ = 0.41751
+NSGA2 : Hv = 0.72053 GD = 0.01979 IGD = 0.02626 IGD+ = 0.02530
+NSGA3 : Hv = 0.72410 GD = 0.01583 IGD = 0.02432 IGD+ = 0.02297
+RVEA : Hv = 0.60825 GD = 0.09711 IGD = 0.09053 IGD+ = 0.09016
+MOEAD : Hv = 0.09883 GD = 0.54919 IGD = 0.56338 IGD+ = 0.56338
+AGEMOEA : Hv = 0.72800 GD = 0.01745 IGD = 0.08022 IGD+ = 0.06604
+Run n°  9 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+[HLDBEA] Restart triggered at gen 176: 20 individuals replaced (delta_HV=2.62e-06).
+[HLDBEA] Restart triggered at gen 212: 20 individuals replaced (delta_HV=1.29e-12).
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00753 GD = 0.00090 IGD = 0.91022 IGD+ = 0.41461
+NSGA2 : Hv = 0.72920 GD = 0.01640 IGD = 0.02186 IGD+ = 0.02065
+NSGA3 : Hv = 0.72532 GD = 0.01629 IGD = 0.02375 IGD+ = 0.02213
+RVEA : Hv = 0.62185 GD = 0.08936 IGD = 0.08361 IGD+ = 0.08323
+MOEAD : Hv = 0.06119 GD = 0.34924 IGD = 0.38415 IGD+ = 0.38410
+AGEMOEA : Hv = 0.75003 GD = 0.01105 IGD = 0.01310 IGD+ = 0.01125
+Run n° 10 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.01156 GD = 0.00291 IGD = 0.90051 IGD+ = 0.41254
+NSGA2 : Hv = 0.73050 GD = 0.01616 IGD = 0.02123 IGD+ = 0.02032
+NSGA3 : Hv = 0.73259 GD = 0.01388 IGD = 0.02055 IGD+ = 0.01877
+RVEA : Hv = 0.49274 GD = 0.17775 IGD = 0.16373 IGD+ = 0.16361
+MOEAD : Hv = 0.08214 GD = 0.64184 IGD = 0.79897 IGD+ = 0.79619
+AGEMOEA : Hv = 0.73908 GD = 0.01430 IGD = 0.01777 IGD+ = 0.01655
+Run n° 11 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00599 GD = 0.00123 IGD = 0.91290 IGD+ = 0.41532
+NSGA2 : Hv = 0.75685 GD = 0.00863 IGD = 0.01028 IGD+ = 0.00866
+NSGA3 : Hv = 0.71054 GD = 0.02037 IGD = 0.03121 IGD+ = 0.03040
+RVEA : Hv = 0.56738 GD = 0.11509 IGD = 0.11490 IGD+ = 0.11466
+MOEAD : Hv = 0.05538 GD = 0.65883 IGD = 0.70749 IGD+ = 0.70749
+AGEMOEA : Hv = 0.73973 GD = 0.01424 IGD = 0.01712 IGD+ = 0.01587
+Run n° 12 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.03632 GD = 0.00787 IGD = 0.74785 IGD+ = 0.39934
+NSGA2 : Hv = 0.74668 GD = 0.01122 IGD = 0.01430 IGD+ = 0.01284
+NSGA3 : Hv = 0.75686 GD = 0.00837 IGD = 0.01107 IGD+ = 0.00835
+RVEA : Hv = 0.58477 GD = 0.10749 IGD = 0.10575 IGD+ = 0.10556
+MOEAD : Hv = 0.22928 GD = 0.33601 IGD = 0.44797 IGD+ = 0.44336
+AGEMOEA : Hv = 0.75077 GD = 0.01050 IGD = 0.01271 IGD+ = 0.01087
+Run n° 13 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00369 GD = 0.00105 IGD = 0.91603 IGD+ = 0.41658
+NSGA2 : Hv = 0.75476 GD = 0.00957 IGD = 0.01130 IGD+ = 0.00935
+NSGA3 : Hv = 0.74836 GD = 0.00969 IGD = 0.01415 IGD+ = 0.01171
+RVEA : Hv = 0.45614 GD = 0.19749 IGD = 0.16134 IGD+ = 0.16129
+MOEAD : Hv = 0.15227 GD = 0.42828 IGD = 0.59032 IGD+ = 0.58659
+AGEMOEA : Hv = 0.72399 GD = 0.01903 IGD = 0.02477 IGD+ = 0.02336
+Run n° 14 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.01263 GD = 0.00082 IGD = 0.89719 IGD+ = 0.41184
+NSGA2 : Hv = 0.74193 GD = 0.01312 IGD = 0.01671 IGD+ = 0.01489
+NSGA3 : Hv = 0.74101 GD = 0.01223 IGD = 0.01684 IGD+ = 0.01492
+RVEA : Hv = 0.63897 GD = 0.08366 IGD = 0.07300 IGD+ = 0.07253
+MOEAD : Hv = 0.13114 GD = 0.41835 IGD = 0.44900 IGD+ = 0.44900
+AGEMOEA : Hv = 0.71873 GD = 0.02002 IGD = 0.02731 IGD+ = 0.02624
+Run n° 15 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.05428 GD = 0.12538 IGD = 0.48213 IGD+ = 0.38769
+NSGA2 : Hv = 0.70976 GD = 0.02336 IGD = 0.03200 IGD+ = 0.03125
+NSGA3 : Hv = 0.74631 GD = 0.01105 IGD = 0.01521 IGD+ = 0.01270
+RVEA : Hv = 0.58757 GD = 0.10591 IGD = 0.10378 IGD+ = 0.10343
+MOEAD : Hv = 0.13209 GD = 0.43890 IGD = 0.44934 IGD+ = 0.44932
+AGEMOEA : Hv = 0.73607 GD = 0.01540 IGD = 0.01888 IGD+ = 0.01751
+Run n° 16 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.29356 GD = 0.00066 IGD = 0.65587 IGD+ = 0.29573
+NSGA2 : Hv = 0.75146 GD = 0.01062 IGD = 0.01263 IGD+ = 0.01081
+NSGA3 : Hv = 0.72405 GD = 0.01601 IGD = 0.02457 IGD+ = 0.02288
+RVEA : Hv = 0.54312 GD = 0.13297 IGD = 0.12899 IGD+ = 0.12880
+MOEAD : Hv = 0.23970 GD = 0.28844 IGD = 0.60590 IGD+ = 0.58882
+AGEMOEA : Hv = 0.75524 GD = 0.00978 IGD = 0.01079 IGD+ = 0.00908
+Run n° 17 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00793 GD = 0.00002 IGD = 0.90941 IGD+ = 0.41441
+NSGA2 : Hv = 0.72645 GD = 0.01607 IGD = 0.02290 IGD+ = 0.02199
+NSGA3 : Hv = 0.73147 GD = 0.01268 IGD = 0.02068 IGD+ = 0.01908
+RVEA : Hv = 0.62103 GD = 0.08930 IGD = 0.08297 IGD+ = 0.08260
+MOEAD : Hv = 0.18854 GD = 0.36664 IGD = 0.37710 IGD+ = 0.37710
+AGEMOEA : Hv = 0.73964 GD = 0.01360 IGD = 0.07447 IGD+ = 0.05887
+Run n° 18 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00207 GD = 0.00050 IGD = 0.91748 IGD+ = 0.41745
+NSGA2 : Hv = 0.75336 GD = 0.00981 IGD = 0.01151 IGD+ = 0.00995
+NSGA3 : Hv = 0.72983 GD = 0.01485 IGD = 0.02185 IGD+ = 0.02007
+RVEA : Hv = 0.54156 GD = 0.13166 IGD = 0.13038 IGD+ = 0.13024
+MOEAD : Hv = 0.36295 GD = 0.19888 IGD = 0.23503 IGD+ = 0.23497
+AGEMOEA : Hv = 0.71654 GD = 0.02256 IGD = 0.02845 IGD+ = 0.02751
+Run n° 19 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00334 GD = 0.00067 IGD = 0.91639 IGD+ = 0.41677
+NSGA2 : Hv = 0.73912 GD = 0.01315 IGD = 0.01765 IGD+ = 0.01607
+NSGA3 : Hv = 0.72286 GD = 0.01727 IGD = 0.02540 IGD+ = 0.02388
+RVEA : Hv = 0.60218 GD = 0.10045 IGD = 0.09576 IGD+ = 0.09565
+MOEAD : Hv = 0.15814 GD = 0.39237 IGD = 0.41784 IGD+ = 0.41784
+AGEMOEA : Hv = 0.75860 GD = 0.00923 IGD = 0.01001 IGD+ = 0.00824
+Run n° 20 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00458 GD = 0.00106 IGD = 0.91497 IGD+ = 0.41610
+NSGA2 : Hv = 0.75103 GD = 0.01082 IGD = 0.01261 IGD+ = 0.01085
+NSGA3 : Hv = 0.74402 GD = 0.01105 IGD = 0.01592 IGD+ = 0.01366
+RVEA : Hv = 0.56758 GD = 0.11499 IGD = 0.11576 IGD+ = 0.11565
+MOEAD : Hv = 0.20041 GD = 0.39809 IGD = 0.44319 IGD+ = 0.44319
+AGEMOEA : Hv = 0.75174 GD = 0.01115 IGD = 0.01242 IGD+ = 0.01059
+Run n° 21 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00582 GD = 0.00032 IGD = 0.91313 IGD+ = 0.41539
+NSGA2 : Hv = 0.61973 GD = 0.06227 IGD = 0.07687 IGD+ = 0.07461
+NSGA3 : Hv = 0.68423 GD = 0.03762 IGD = 0.04890 IGD+ = 0.04247
+RVEA : Hv = 0.62037 GD = 0.09208 IGD = 0.08382 IGD+ = 0.08341
+MOEAD : Hv = 0.25968 GD = 0.32817 IGD = 0.36609 IGD+ = 0.36609
+AGEMOEA : Hv = 0.73074 GD = 0.01738 IGD = 0.02115 IGD+ = 0.02015
+Run n° 22 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.01113 GD = 0.00320 IGD = 0.89111 IGD+ = 0.41257
+NSGA2 : Hv = 0.75031 GD = 0.01030 IGD = 0.01247 IGD+ = 0.01100
+NSGA3 : Hv = 0.71951 GD = 0.01794 IGD = 0.02640 IGD+ = 0.02536
+RVEA : Hv = 0.58426 GD = 0.10964 IGD = 0.10631 IGD+ = 0.10585
+MOEAD : Hv = 0.17821 GD = 0.35974 IGD = 0.39452 IGD+ = 0.39450
+AGEMOEA : Hv = 0.75098 GD = 0.01160 IGD = 0.01269 IGD+ = 0.01105
+Run n° 23 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00338 GD = 0.00074 IGD = 0.91457 IGD+ = 0.41673
+NSGA2 : Hv = 0.75347 GD = 0.01024 IGD = 0.01220 IGD+ = 0.01001
+NSGA3 : Hv = 0.73188 GD = 0.01384 IGD = 0.02075 IGD+ = 0.01906
+RVEA : Hv = 0.54504 GD = 0.12776 IGD = 0.12832 IGD+ = 0.12816
+MOEAD : Hv = 0.15684 GD = 0.45731 IGD = 0.48849 IGD+ = 0.48849
+AGEMOEA : Hv = 0.75120 GD = 0.01168 IGD = 0.01256 IGD+ = 0.01077
+Run n° 24 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00636 GD = 0.00173 IGD = 0.91232 IGD+ = 0.41518
+NSGA2 : Hv = 0.71740 GD = 0.01969 IGD = 0.02797 IGD+ = 0.02696
+NSGA3 : Hv = 0.74141 GD = 0.01116 IGD = 0.01641 IGD+ = 0.01456
+RVEA : Hv = 0.61081 GD = 0.09471 IGD = 0.09088 IGD+ = 0.09055
+MOEAD : Hv = 0.14104 GD = 0.38413 IGD = 0.42514 IGD+ = 0.42509
+AGEMOEA : Hv = 0.75576 GD = 0.00953 IGD = 0.01084 IGD+ = 0.00877
+Run n° 25 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00220 GD = 0.00040 IGD = 0.91739 IGD+ = 0.41739
+NSGA2 : Hv = 0.74509 GD = 0.01236 IGD = 0.01510 IGD+ = 0.01347
+NSGA3 : Hv = 0.72733 GD = 0.01509 IGD = 0.02303 IGD+ = 0.02133
+RVEA : Hv = 0.64701 GD = 0.07839 IGD = 0.06724 IGD+ = 0.06697
+MOEAD : Hv = 0.02681 GD = 0.60198 IGD = 0.59258 IGD+ = 0.59258
+AGEMOEA : Hv = 0.66653 GD = 0.03464 IGD = 0.05520 IGD+ = 0.05081
+Run n° 26 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.01203 GD = 0.00376 IGD = 0.89917 IGD+ = 0.41244
+NSGA2 : Hv = 0.75377 GD = 0.00984 IGD = 0.01197 IGD+ = 0.00994
+NSGA3 : Hv = 0.73622 GD = 0.01296 IGD = 0.01899 IGD+ = 0.01711
+RVEA : Hv = 0.60005 GD = 0.09926 IGD = 0.09556 IGD+ = 0.09521
+MOEAD : Hv = 0.12827 GD = 0.50622 IGD = 0.52466 IGD+ = 0.52466
+AGEMOEA : Hv = 0.75536 GD = 0.01032 IGD = 0.01126 IGD+ = 0.00921
+Run n° 27 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+[HLDBEA] Restart triggered at gen 202: 20 individuals replaced (delta_HV=1.54e-12).
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00901 GD = 0.00254 IGD = 0.90712 IGD+ = 0.41391
+NSGA2 : Hv = 0.72836 GD = 0.01647 IGD = 0.02267 IGD+ = 0.02152
+NSGA3 : Hv = 0.74445 GD = 0.01086 IGD = 0.01558 IGD+ = 0.01336
+RVEA : Hv = 0.61938 GD = 0.09222 IGD = 0.08569 IGD+ = 0.08551
+MOEAD : Hv = 0.17701 GD = 0.45874 IGD = 0.60894 IGD+ = 0.60554
+AGEMOEA : Hv = 0.73964 GD = 0.01495 IGD = 0.01716 IGD+ = 0.01577
+Run n° 28 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00212 GD = 0.00046 IGD = 0.91744 IGD+ = 0.41743
+NSGA2 : Hv = 0.72955 GD = 0.01633 IGD = 0.02191 IGD+ = 0.02057
+NSGA3 : Hv = 0.73841 GD = 0.01262 IGD = 0.01797 IGD+ = 0.01626
+RVEA : Hv = 0.61581 GD = 0.09476 IGD = 0.08834 IGD+ = 0.08796
+MOEAD : Hv = 0.10817 GD = 0.40593 IGD = 0.81509 IGD+ = 0.80069
+AGEMOEA : Hv = 0.75238 GD = 0.01032 IGD = 0.01218 IGD+ = 0.01031
+Run n° 29 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00245 GD = 0.00019 IGD = 0.91719 IGD+ = 0.41725
+NSGA2 : Hv = 0.72567 GD = 0.01686 IGD = 0.02380 IGD+ = 0.02245
+NSGA3 : Hv = 0.74042 GD = 0.01172 IGD = 0.01702 IGD+ = 0.01508
+RVEA : Hv = 0.65573 GD = 0.07435 IGD = 0.06245 IGD+ = 0.06180
+MOEAD : Hv = 0.19968 GD = 0.32780 IGD = 0.35870 IGD+ = 0.35869
+AGEMOEA : Hv = 0.66305 GD = 0.03870 IGD = 0.05680 IGD+ = 0.05239
+Run n° 30 / 30
+*** PROBLEM : ZDT3 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00424 GD = 0.00150 IGD = 0.91539 IGD+ = 0.41628
+NSGA2 : Hv = 0.74508 GD = 0.01177 IGD = 0.01445 IGD+ = 0.01305
+NSGA3 : Hv = 0.68416 GD = 0.03022 IGD = 0.04680 IGD+ = 0.04549
+RVEA : Hv = 0.52790 GD = 0.14421 IGD = 0.14071 IGD+ = 0.14064
+MOEAD : Hv = 0.23372 GD = 0.36117 IGD = 0.51753 IGD+ = 0.51348
+AGEMOEA : Hv = 0.73196 GD = 0.01736 IGD = 0.02082 IGD+ = 0.01948
+GENERATING AND SAVING FIGURES...
+[ZDT3] Box plots successfully saved to: generated/final/ZDT3_boxplots.png
+Selected run #24 as the median. (HV = 0.00636)
+Selected run #3 as the median. (HV = 0.74125)
+Selected run #28 as the median. (HV = 0.73841)
+Selected run #1 as the median. (HV = 0.59094)
+Selected run #17 as the median. (HV = 0.18854)
+Selected run #11 as the median. (HV = 0.73973)
+Run n°  1 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.14372 IGD = 0.80507 IGD+ = 0.70001
+NSGA2 : Hv = 0.48953 GD = 0.12703 IGD = 0.12838 IGD+ = 0.12838
+NSGA3 : Hv = 0.04358 GD = 0.63268 IGD = 0.63164 IGD+ = 0.63148
+RVEA : Hv = 0.31726 GD = 0.28033 IGD = 0.26797 IGD+ = 0.26797
+MOEAD : Hv = 0.23411 GD = 0.16568 IGD = 0.47970 IGD+ = 0.40390
+AGEMOEA : Hv = 0.10530 GD = 0.54395 IGD = 0.52703 IGD+ = 0.52703
+Run n°  2 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.15978 GD = 0.10943 IGD = 0.61825 IGD+ = 0.48816
+NSGA2 : Hv = 0.55892 GD = 0.06833 IGD = 0.07795 IGD+ = 0.07600
+NSGA3 : Hv = 0.35084 GD = 0.12472 IGD = 0.34203 IGD+ = 0.27561
+RVEA : Hv = 0.47633 GD = 0.13560 IGD = 0.13465 IGD+ = 0.13465
+MOEAD : Hv = 0.00000 GD = 0.76048 IGD = 1.02708 IGD+ = 1.00993
+AGEMOEA : Hv = 0.46742 GD = 0.12244 IGD = 0.17295 IGD+ = 0.15936
+Run n°  3 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.23140 GD = 0.01869 IGD = 0.60421 IGD+ = 0.42282
+NSGA2 : Hv = 0.25981 GD = 0.37750 IGD = 0.31278 IGD+ = 0.30812
+NSGA3 : Hv = 0.00000 GD = 0.65437 IGD = 0.77085 IGD+ = 0.76581
+RVEA : Hv = 0.18848 GD = 0.38961 IGD = 0.42012 IGD+ = 0.41930
+MOEAD : Hv = 0.00000 GD = 0.76023 IGD = 1.11975 IGD+ = 1.08315
+AGEMOEA : Hv = 0.20514 GD = 0.39776 IGD = 0.39171 IGD+ = 0.39171
+Run n°  4 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.63783 IGD = 1.19761 IGD+ = 1.17284
+NSGA2 : Hv = 0.30750 GD = 0.29389 IGD = 0.26688 IGD+ = 0.26687
+NSGA3 : Hv = 0.35795 GD = 0.14269 IGD = 0.31180 IGD+ = 0.25785
+RVEA : Hv = 0.01159 GD = 0.62126 IGD = 0.72020 IGD+ = 0.70574
+MOEAD : Hv = 0.13914 GD = 0.24545 IGD = 0.56167 IGD+ = 0.50337
+AGEMOEA : Hv = 0.10323 GD = 0.25142 IGD = 0.62552 IGD+ = 0.55091
+Run n°  5 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.46378 IGD = 0.98357 IGD+ = 0.93055
+NSGA2 : Hv = 0.19408 GD = 0.41291 IGD = 0.40601 IGD+ = 0.40601
+NSGA3 : Hv = 0.65412 GD = 0.00727 IGD = 0.00716 IGD+ = 0.00692
+RVEA : Hv = 0.18138 GD = 0.42674 IGD = 0.40356 IGD+ = 0.40355
+MOEAD : Hv = 0.21045 GD = 0.11882 IGD = 0.54315 IGD+ = 0.43352
+AGEMOEA : Hv = 0.18018 GD = 0.43517 IGD = 0.42850 IGD+ = 0.42827
+Run n°  6 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.21147 GD = 0.17188 IGD = 0.52796 IGD+ = 0.42089
+NSGA2 : Hv = 0.43397 GD = 0.16731 IGD = 0.17033 IGD+ = 0.17033
+NSGA3 : Hv = 0.20748 GD = 0.37031 IGD = 0.39041 IGD+ = 0.39041
+RVEA : Hv = 0.17569 GD = 0.41225 IGD = 0.41763 IGD+ = 0.41763
+MOEAD : Hv = 0.14604 GD = 0.28170 IGD = 0.54442 IGD+ = 0.49405
+AGEMOEA : Hv = 0.32600 GD = 0.26605 IGD = 0.26755 IGD+ = 0.26755
+Run n°  7 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.20634 GD = 0.12145 IGD = 0.54733 IGD+ = 0.42938
+NSGA2 : Hv = 0.04077 GD = 0.32306 IGD = 0.69015 IGD+ = 0.62734
+NSGA3 : Hv = 0.13174 GD = 0.36520 IGD = 0.53213 IGD+ = 0.51336
+RVEA : Hv = 0.00000 GD = 0.81042 IGD = 0.89017 IGD+ = 0.87720
+MOEAD : Hv = 0.29745 GD = 0.78266 IGD = 0.35528 IGD+ = 0.31502
+AGEMOEA : Hv = 0.00000 GD = 0.43467 IGD = 0.74883 IGD+ = 0.69558
+Run n°  8 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.37927 GD = 0.00201 IGD = 0.43881 IGD+ = 0.26847
+NSGA2 : Hv = 0.49340 GD = 0.12254 IGD = 0.12563 IGD+ = 0.12563
+NSGA3 : Hv = 0.65321 GD = 0.00404 IGD = 0.02197 IGD+ = 0.01121
+RVEA : Hv = 0.33411 GD = 0.25928 IGD = 0.25241 IGD+ = 0.25218
+MOEAD : Hv = 0.00000 GD = 1.06862 IGD = 1.42356 IGD+ = 1.40520
+AGEMOEA : Hv = 0.07214 GD = 0.58398 IGD = 0.60892 IGD+ = 0.60403
+Run n°  9 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.01094 GD = 0.17576 IGD = 0.75626 IGD+ = 0.65748
+NSGA2 : Hv = 0.20238 GD = 0.39786 IGD = 0.39514 IGD+ = 0.39514
+NSGA3 : Hv = 0.41450 GD = 0.10916 IGD = 0.25774 IGD+ = 0.21619
+RVEA : Hv = 0.01889 GD = 0.96447 IGD = 0.68937 IGD+ = 0.68937
+MOEAD : Hv = 0.00000 GD = 1.01247 IGD = 1.11465 IGD+ = 1.09881
+AGEMOEA : Hv = 0.31260 GD = 0.25541 IGD = 0.30660 IGD+ = 0.29831
+Run n° 10 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.33447 GD = 0.10798 IGD = 0.34066 IGD+ = 0.27525
+NSGA2 : Hv = 0.66077 GD = 0.00441 IGD = 0.00397 IGD+ = 0.00290
+NSGA3 : Hv = 0.48653 GD = 0.12042 IGD = 0.14047 IGD+ = 0.13706
+RVEA : Hv = 0.44597 GD = 0.15251 IGD = 0.16855 IGD+ = 0.16694
+MOEAD : Hv = 0.00000 GD = 0.40697 IGD = 0.88091 IGD+ = 0.82500
+AGEMOEA : Hv = 0.00000 GD = 1.14665 IGD = 1.04234 IGD+ = 1.04207
+Run n° 11 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.55779 IGD = 1.11996 IGD+ = 1.08006
+NSGA2 : Hv = 0.49127 GD = 0.12417 IGD = 0.12656 IGD+ = 0.12656
+NSGA3 : Hv = 0.30013 GD = 0.23671 IGD = 0.32919 IGD+ = 0.31541
+RVEA : Hv = 0.43691 GD = 0.06548 IGD = 0.36029 IGD+ = 0.22382
+MOEAD : Hv = 0.00000 GD = 0.69469 IGD = 0.95055 IGD+ = 0.91982
+AGEMOEA : Hv = 0.20086 GD = 0.40814 IGD = 0.39942 IGD+ = 0.39941
+Run n° 12 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.20137 GD = 0.12007 IGD = 0.55541 IGD+ = 0.43593
+NSGA2 : Hv = 0.32784 GD = 0.26472 IGD = 0.26511 IGD+ = 0.26511
+NSGA3 : Hv = 0.60297 GD = 0.00925 IGD = 0.10804 IGD+ = 0.05992
+RVEA : Hv = 0.31935 GD = 0.27005 IGD = 0.26618 IGD+ = 0.26607
+MOEAD : Hv = 0.18722 GD = 0.29198 IGD = 0.48653 IGD+ = 0.44663
+AGEMOEA : Hv = 0.13841 GD = 0.47091 IGD = 0.43226 IGD+ = 0.43226
+Run n° 13 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.45018 IGD = 1.12339 IGD+ = 1.05567
+NSGA2 : Hv = 0.49067 GD = 0.12316 IGD = 0.12720 IGD+ = 0.12720
+NSGA3 : Hv = 0.49100 GD = 0.12437 IGD = 0.12839 IGD+ = 0.12839
+RVEA : Hv = 0.30412 GD = 0.27782 IGD = 0.28359 IGD+ = 0.28352
+MOEAD : Hv = 0.15016 GD = 0.16017 IGD = 0.60276 IGD+ = 0.49892
+AGEMOEA : Hv = 0.41585 GD = 0.30337 IGD = 0.16756 IGD+ = 0.16286
+Run n° 14 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.22332 GD = 0.10758 IGD = 0.53384 IGD+ = 0.41884
+NSGA2 : Hv = 0.64839 GD = 0.00558 IGD = 0.03170 IGD+ = 0.01618
+NSGA3 : Hv = 0.23023 GD = 0.22804 IGD = 0.44092 IGD+ = 0.40172
+RVEA : Hv = 0.18415 GD = 0.39363 IGD = 0.42404 IGD+ = 0.42249
+MOEAD : Hv = 0.45212 GD = 0.01201 IGD = 0.34576 IGD+ = 0.21187
+AGEMOEA : Hv = 0.00000 GD = 0.41765 IGD = 0.81842 IGD+ = 0.75375
+Run n° 15 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.12667 GD = 0.09863 IGD = 0.66370 IGD+ = 0.52731
+NSGA2 : Hv = 0.31165 GD = 0.28543 IGD = 0.26280 IGD+ = 0.26280
+NSGA3 : Hv = 0.37152 GD = 0.12528 IGD = 0.31712 IGD+ = 0.26419
+RVEA : Hv = 0.46793 GD = 0.14209 IGD = 0.14370 IGD+ = 0.14370
+MOEAD : Hv = 0.00000 GD = 0.83944 IGD = 1.10344 IGD+ = 1.09242
+AGEMOEA : Hv = 0.48669 GD = 0.12265 IGD = 0.14086 IGD+ = 0.13728
+Run n° 16 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.19222 GD = 0.18268 IGD = 0.56588 IGD+ = 0.44729
+NSGA2 : Hv = 0.33533 GD = 0.25766 IGD = 0.25905 IGD+ = 0.25905
+NSGA3 : Hv = 0.00000 GD = 0.61713 IGD = 1.08808 IGD+ = 1.02428
+RVEA : Hv = 0.31255 GD = 0.25379 IGD = 0.27040 IGD+ = 0.27039
+MOEAD : Hv = 0.00000 GD = 1.15818 IGD = 1.55055 IGD+ = 1.52394
+AGEMOEA : Hv = 0.46043 GD = 0.13664 IGD = 0.17069 IGD+ = 0.16263
+Run n° 17 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.01486 GD = 0.17950 IGD = 0.75109 IGD+ = 0.65302
+NSGA2 : Hv = 0.43652 GD = 0.16877 IGD = 0.17096 IGD+ = 0.17096
+NSGA3 : Hv = 0.33818 GD = 0.24444 IGD = 0.25712 IGD+ = 0.25712
+RVEA : Hv = 0.41799 GD = 0.14205 IGD = 0.20353 IGD+ = 0.18813
+MOEAD : Hv = 0.22220 GD = 0.27108 IGD = 0.42328 IGD+ = 0.39586
+AGEMOEA : Hv = 0.00302 GD = 0.85205 IGD = 0.81455 IGD+ = 0.81455
+Run n° 18 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.30516 GD = 0.00151 IGD = 0.52985 IGD+ = 0.34137
+NSGA2 : Hv = 0.13485 GD = 0.49817 IGD = 0.47949 IGD+ = 0.47949
+NSGA3 : Hv = 0.23712 GD = 0.23130 IGD = 0.42842 IGD+ = 0.39291
+RVEA : Hv = 0.03457 GD = 0.65461 IGD = 0.67259 IGD+ = 0.67259
+MOEAD : Hv = 0.19573 GD = 0.21733 IGD = 0.50038 IGD+ = 0.44325
+AGEMOEA : Hv = 0.37923 GD = 0.12242 IGD = 0.31614 IGD+ = 0.25838
+Run n° 19 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 1.64733 IGD = 0.95892 IGD+ = 0.87556
+NSGA2 : Hv = 0.32869 GD = 0.26234 IGD = 0.26476 IGD+ = 0.26476
+NSGA3 : Hv = 0.30192 GD = 0.14785 IGD = 0.43783 IGD+ = 0.34356
+RVEA : Hv = 0.63847 GD = 0.01633 IGD = 0.02690 IGD+ = 0.01936
+MOEAD : Hv = 0.00000 GD = 0.62805 IGD = 0.98679 IGD+ = 0.91190
+AGEMOEA : Hv = 0.42793 GD = 0.14077 IGD = 0.21188 IGD+ = 0.19294
+Run n° 20 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.28121 GD = 0.12500 IGD = 0.43803 IGD+ = 0.34442
+NSGA2 : Hv = 0.33198 GD = 0.25768 IGD = 0.25830 IGD+ = 0.25829
+NSGA3 : Hv = 0.32743 GD = 0.11215 IGD = 0.38979 IGD+ = 0.31362
+RVEA : Hv = 0.29332 GD = 0.31191 IGD = 0.28049 IGD+ = 0.28048
+MOEAD : Hv = 0.00000 GD = 0.89387 IGD = 1.01794 IGD+ = 1.01533
+AGEMOEA : Hv = 0.62854 GD = 0.03624 IGD = 0.07075 IGD+ = 0.03642
+Run n° 21 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.14508 GD = 0.10478 IGD = 0.63884 IGD+ = 0.50576
+NSGA2 : Hv = 0.65216 GD = 0.00888 IGD = 0.00840 IGD+ = 0.00814
+NSGA3 : Hv = 0.49537 GD = 0.00962 IGD = 0.29486 IGD+ = 0.16990
+RVEA : Hv = 0.54454 GD = 0.03482 IGD = 0.17765 IGD+ = 0.11099
+MOEAD : Hv = 0.00000 GD = 0.35281 IGD = 0.76759 IGD+ = 0.71689
+AGEMOEA : Hv = 0.00000 GD = 0.44319 IGD = 0.75945 IGD+ = 0.70792
+Run n° 22 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.32162 GD = 0.00271 IGD = 0.50613 IGD+ = 0.32061
+NSGA2 : Hv = 0.14538 GD = 0.48388 IGD = 0.42139 IGD+ = 0.42139
+NSGA3 : Hv = 0.37579 GD = 0.12147 IGD = 0.30154 IGD+ = 0.25026
+RVEA : Hv = 0.07167 GD = 0.70195 IGD = 0.55863 IGD+ = 0.55856
+MOEAD : Hv = 0.00000 GD = 0.62909 IGD = 0.84210 IGD+ = 0.79591
+AGEMOEA : Hv = 0.09768 GD = 0.39809 IGD = 0.58771 IGD+ = 0.55903
+Run n° 23 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.25868 IGD = 0.93010 IGD+ = 0.84992
+NSGA2 : Hv = 0.48866 GD = 0.12478 IGD = 0.13031 IGD+ = 0.13025
+NSGA3 : Hv = 0.32491 GD = 0.24101 IGD = 0.28548 IGD+ = 0.28158
+RVEA : Hv = 0.07844 GD = 0.51637 IGD = 0.59005 IGD+ = 0.58644
+MOEAD : Hv = 0.00000 GD = 1.48848 IGD = 1.82033 IGD+ = 1.77999
+AGEMOEA : Hv = 0.41354 GD = 0.13236 IGD = 0.22673 IGD+ = 0.19994
+Run n° 24 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.15936 GD = 0.10924 IGD = 0.61885 IGD+ = 0.48866
+NSGA2 : Hv = 0.63905 GD = 0.01068 IGD = 0.02275 IGD+ = 0.01725
+NSGA3 : Hv = 0.00000 GD = 0.53494 IGD = 0.85229 IGD+ = 0.81723
+RVEA : Hv = 0.43686 GD = 0.16064 IGD = 0.16185 IGD+ = 0.16185
+MOEAD : Hv = 0.00000 GD = 0.37312 IGD = 0.81107 IGD+ = 0.75488
+AGEMOEA : Hv = 0.49318 GD = 0.12344 IGD = 0.12584 IGD+ = 0.12584
+Run n° 25 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.07701 GD = 0.20709 IGD = 0.66569 IGD+ = 0.58060
+NSGA2 : Hv = 0.48778 GD = 0.12801 IGD = 0.12968 IGD+ = 0.12968
+NSGA3 : Hv = 0.33990 GD = 0.24284 IGD = 0.25546 IGD+ = 0.25546
+RVEA : Hv = 0.29033 GD = 0.35072 IGD = 0.28014 IGD+ = 0.27910
+MOEAD : Hv = 0.00000 GD = 0.89098 IGD = 1.08891 IGD+ = 1.08290
+AGEMOEA : Hv = 0.19601 GD = 0.40841 IGD = 0.39908 IGD+ = 0.39907
+Run n° 26 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.53562 IGD = 1.17315 IGD+ = 1.12810
+NSGA2 : Hv = 0.32301 GD = 0.26551 IGD = 0.27025 IGD+ = 0.27025
+NSGA3 : Hv = 0.49107 GD = 0.36718 IGD = 0.13028 IGD+ = 0.12983
+RVEA : Hv = 0.07957 GD = 0.55124 IGD = 0.56659 IGD+ = 0.56659
+MOEAD : Hv = 0.45811 GD = 0.29345 IGD = 0.15273 IGD+ = 0.15069
+AGEMOEA : Hv = 0.32589 GD = 0.26573 IGD = 0.26738 IGD+ = 0.26738
+Run n° 27 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.20381 GD = 0.12072 IGD = 0.55147 IGD+ = 0.43273
+NSGA2 : Hv = 0.18571 GD = 0.43690 IGD = 0.39935 IGD+ = 0.39935
+NSGA3 : Hv = 0.25322 GD = 0.22754 IGD = 0.40565 IGD+ = 0.37373
+RVEA : Hv = 0.20071 GD = 0.47784 IGD = 0.40019 IGD+ = 0.39920
+MOEAD : Hv = 0.00000 GD = 2.13788 IGD = 2.23576 IGD+ = 2.23434
+AGEMOEA : Hv = 0.24353 GD = 0.26235 IGD = 0.41862 IGD+ = 0.38518
+Run n° 28 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.32392 GD = 0.00692 IGD = 0.51028 IGD+ = 0.32589
+NSGA2 : Hv = 0.48501 GD = 0.12960 IGD = 0.13212 IGD+ = 0.13212
+NSGA3 : Hv = 0.09608 GD = 0.43476 IGD = 0.57335 IGD+ = 0.54835
+RVEA : Hv = 0.41791 GD = 0.16007 IGD = 0.23911 IGD+ = 0.20628
+MOEAD : Hv = 0.00000 GD = 0.96346 IGD = 1.40691 IGD+ = 1.36927
+AGEMOEA : Hv = 0.40592 GD = 0.15795 IGD = 0.23984 IGD+ = 0.21827
+Run n° 29 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00000 GD = 0.57371 IGD = 1.01373 IGD+ = 0.98448
+NSGA2 : Hv = 0.48103 GD = 0.13386 IGD = 0.13279 IGD+ = 0.13279
+NSGA3 : Hv = 0.46664 GD = 0.12676 IGD = 0.16031 IGD+ = 0.15396
+RVEA : Hv = 0.44348 GD = 0.20224 IGD = 0.15147 IGD+ = 0.15142
+MOEAD : Hv = 0.23935 GD = 0.23751 IGD = 0.48064 IGD+ = 0.39971
+AGEMOEA : Hv = 0.33202 GD = 0.25935 IGD = 0.26121 IGD+ = 0.26121
+Run n° 30 / 30
+*** PROBLEM : ZDT4 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.04842 GD = 0.17958 IGD = 0.70559 IGD+ = 0.61412
+NSGA2 : Hv = 0.48616 GD = 0.13035 IGD = 0.13251 IGD+ = 0.13242
+NSGA3 : Hv = 0.38719 GD = 0.10912 IGD = 0.29529 IGD+ = 0.24302
+RVEA : Hv = 0.00000 GD = 0.85296 IGD = 1.07543 IGD+ = 1.05250
+MOEAD : Hv = 0.05109 GD = 0.30068 IGD = 0.66941 IGD+ = 0.61628
+AGEMOEA : Hv = 0.55494 GD = 0.05673 IGD = 0.13602 IGD+ = 0.08574
+GENERATING AND SAVING FIGURES...
+[ZDT4] Box plots successfully saved to: generated/final/ZDT4_boxplots.png
+Selected run #24 as the median. (HV = 0.15936)
+Selected run #17 as the median. (HV = 0.43652)
+Selected run #25 as the median. (HV = 0.33990)
+Selected run #13 as the median. (HV = 0.30412)
+Selected run #8 as the median. (HV = 0.00000)
+Selected run #9 as the median. (HV = 0.31260)
+Run n°  1 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.10729 GD = 0.00665 IGD = 0.38494 IGD+ = 0.23881
+NSGA2 : Hv = 0.23610 GD = 0.02629 IGD = 0.02651 IGD+ = 0.02651
+NSGA3 : Hv = 0.18809 GD = 0.07350 IGD = 0.07464 IGD+ = 0.07464
+RVEA : Hv = 0.05254 GD = 0.28100 IGD = 0.27993 IGD+ = 0.27993
+MOEAD : Hv = 0.22654 GD = 0.03124 IGD = 0.03193 IGD+ = 0.03188
+AGEMOEA : Hv = 0.23466 GD = 0.02797 IGD = 0.02773 IGD+ = 0.02773
+Run n°  2 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.03950 GD = 0.00591 IGD = 0.55769 IGD+ = 0.31726
+NSGA2 : Hv = 0.22694 GD = 0.03516 IGD = 0.03468 IGD+ = 0.03468
+NSGA3 : Hv = 0.21811 GD = 0.04364 IGD = 0.04340 IGD+ = 0.04340
+RVEA : Hv = 0.07902 GD = 0.22677 IGD = 0.21201 IGD+ = 0.21201
+MOEAD : Hv = 0.20257 GD = 0.05543 IGD = 0.05679 IGD+ = 0.05678
+AGEMOEA : Hv = 0.23490 GD = 0.02773 IGD = 0.02766 IGD+ = 0.02766
+Run n°  3 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.08223 GD = 0.00221 IGD = 0.43684 IGD+ = 0.25837
+NSGA2 : Hv = 0.20756 GD = 0.05365 IGD = 0.05380 IGD+ = 0.05380
+NSGA3 : Hv = 0.19501 GD = 0.06651 IGD = 0.06829 IGD+ = 0.06829
+RVEA : Hv = 0.06151 GD = 0.25640 IGD = 0.25236 IGD+ = 0.25236
+MOEAD : Hv = 0.22540 GD = 0.03772 IGD = 0.03708 IGD+ = 0.03708
+AGEMOEA : Hv = 0.24141 GD = 0.02168 IGD = 0.02178 IGD+ = 0.02178
+Run n°  4 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.03169 GD = 0.00060 IGD = 0.57805 IGD+ = 0.32476
+NSGA2 : Hv = 0.20516 GD = 0.05703 IGD = 0.05612 IGD+ = 0.05612
+NSGA3 : Hv = 0.21264 GD = 0.04845 IGD = 0.04843 IGD+ = 0.04843
+RVEA : Hv = 0.07173 GD = 0.23897 IGD = 0.21537 IGD+ = 0.21537
+MOEAD : Hv = 0.21848 GD = 0.04943 IGD = 0.04289 IGD+ = 0.04289
+AGEMOEA : Hv = 0.22371 GD = 0.03823 IGD = 0.03827 IGD+ = 0.03827
+Run n°  5 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.02112 GD = 0.00628 IGD = 0.60277 IGD+ = 0.33702
+NSGA2 : Hv = 0.23139 GD = 0.03039 IGD = 0.03029 IGD+ = 0.03029
+NSGA3 : Hv = 0.21637 GD = 0.04495 IGD = 0.04498 IGD+ = 0.04497
+RVEA : Hv = 0.08177 GD = 0.22189 IGD = 0.21076 IGD+ = 0.21076
+MOEAD : Hv = 0.22821 GD = 0.03631 IGD = 0.03283 IGD+ = 0.03283
+AGEMOEA : Hv = 0.21535 GD = 0.04617 IGD = 0.04653 IGD+ = 0.04653
+Run n°  6 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.10273 GD = 0.00169 IGD = 0.38823 IGD+ = 0.24832
+NSGA2 : Hv = 0.21144 GD = 0.04997 IGD = 0.04980 IGD+ = 0.04980
+NSGA3 : Hv = 0.20822 GD = 0.05293 IGD = 0.05335 IGD+ = 0.05334
+RVEA : Hv = 0.06000 GD = 0.26008 IGD = 0.25523 IGD+ = 0.25523
+MOEAD : Hv = 0.22995 GD = 0.04760 IGD = 0.03198 IGD+ = 0.03198
+AGEMOEA : Hv = 0.22440 GD = 0.03762 IGD = 0.03726 IGD+ = 0.03726
+Run n°  7 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.06127 GD = 0.00698 IGD = 0.50502 IGD+ = 0.29275
+NSGA2 : Hv = 0.21010 GD = 0.05112 IGD = 0.05124 IGD+ = 0.05124
+NSGA3 : Hv = 0.20685 GD = 0.05460 IGD = 0.05517 IGD+ = 0.05517
+RVEA : Hv = 0.05287 GD = 0.27541 IGD = 0.28171 IGD+ = 0.28171
+MOEAD : Hv = 0.23613 GD = 0.02615 IGD = 0.02609 IGD+ = 0.02609
+AGEMOEA : Hv = 0.22600 GD = 0.03596 IGD = 0.03598 IGD+ = 0.03598
+Run n°  8 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.04729 GD = 0.00287 IGD = 0.53900 IGD+ = 0.30800
+NSGA2 : Hv = 0.22829 GD = 0.03422 IGD = 0.03354 IGD+ = 0.03354
+NSGA3 : Hv = 0.20360 GD = 0.05757 IGD = 0.05859 IGD+ = 0.05859
+RVEA : Hv = 0.08597 GD = 0.21819 IGD = 0.20104 IGD+ = 0.20104
+MOEAD : Hv = 0.22740 GD = 0.03334 IGD = 0.03344 IGD+ = 0.03343
+AGEMOEA : Hv = 0.22733 GD = 0.03485 IGD = 0.03485 IGD+ = 0.03485
+Run n°  9 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.06862 GD = 0.00453 IGD = 0.48360 IGD+ = 0.28572
+NSGA2 : Hv = 0.22948 GD = 0.03257 IGD = 0.03213 IGD+ = 0.03213
+NSGA3 : Hv = 0.17202 GD = 0.08648 IGD = 0.08739 IGD+ = 0.08738
+RVEA : Hv = 0.10517 GD = 0.18215 IGD = 0.17588 IGD+ = 0.17588
+MOEAD : Hv = 0.21129 GD = 0.05503 IGD = 0.04986 IGD+ = 0.04986
+AGEMOEA : Hv = 0.23287 GD = 0.02961 IGD = 0.02938 IGD+ = 0.02938
+Run n° 10 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.06241 GD = 0.00211 IGD = 0.50079 IGD+ = 0.28981
+NSGA2 : Hv = 0.23663 GD = 0.02578 IGD = 0.02565 IGD+ = 0.02565
+NSGA3 : Hv = 0.20796 GD = 0.05262 IGD = 0.05242 IGD+ = 0.05242
+RVEA : Hv = 0.10784 GD = 0.18065 IGD = 0.17171 IGD+ = 0.17171
+MOEAD : Hv = 0.20226 GD = 0.05892 IGD = 0.05599 IGD+ = 0.05599
+AGEMOEA : Hv = 0.22595 GD = 0.03607 IGD = 0.03631 IGD+ = 0.03631
+Run n° 11 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.10619 GD = 0.00399 IGD = 0.38932 IGD+ = 0.23439
+NSGA2 : Hv = 0.22178 GD = 0.03964 IGD = 0.04016 IGD+ = 0.04016
+NSGA3 : Hv = 0.20959 GD = 0.05169 IGD = 0.05242 IGD+ = 0.05242
+RVEA : Hv = 0.08817 GD = 0.20836 IGD = 0.20147 IGD+ = 0.20147
+MOEAD : Hv = 0.22897 GD = 0.03605 IGD = 0.03199 IGD+ = 0.03199
+AGEMOEA : Hv = 0.21751 GD = 0.04423 IGD = 0.04392 IGD+ = 0.04392
+Run n° 12 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.10421 GD = 0.00364 IGD = 0.38383 IGD+ = 0.24669
+NSGA2 : Hv = 0.21759 GD = 0.04359 IGD = 0.04396 IGD+ = 0.04396
+NSGA3 : Hv = 0.20980 GD = 0.05079 IGD = 0.05060 IGD+ = 0.05060
+RVEA : Hv = 0.04226 GD = 0.30667 IGD = 0.30398 IGD+ = 0.30398
+MOEAD : Hv = 0.21365 GD = 0.05809 IGD = 0.04578 IGD+ = 0.04576
+AGEMOEA : Hv = 0.21482 GD = 0.04673 IGD = 0.04715 IGD+ = 0.04715
+Run n° 13 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.06968 GD = 0.00549 IGD = 0.48437 IGD+ = 0.28092
+NSGA2 : Hv = 0.22435 GD = 0.03717 IGD = 0.03794 IGD+ = 0.03794
+NSGA3 : Hv = 0.18570 GD = 0.07577 IGD = 0.07715 IGD+ = 0.07715
+RVEA : Hv = 0.06351 GD = 0.25496 IGD = 0.24394 IGD+ = 0.24394
+MOEAD : Hv = 0.24156 GD = 0.02328 IGD = 0.02172 IGD+ = 0.02172
+AGEMOEA : Hv = 0.22942 GD = 0.03274 IGD = 0.03262 IGD+ = 0.03262
+Run n° 14 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.05871 GD = 0.00665 IGD = 0.50909 IGD+ = 0.29646
+NSGA2 : Hv = 0.22005 GD = 0.04156 IGD = 0.04138 IGD+ = 0.04138
+NSGA3 : Hv = 0.21011 GD = 0.05023 IGD = 0.05069 IGD+ = 0.05069
+RVEA : Hv = 0.05667 GD = 0.26506 IGD = 0.26146 IGD+ = 0.26146
+MOEAD : Hv = 0.21608 GD = 0.04581 IGD = 0.04377 IGD+ = 0.04377
+AGEMOEA : Hv = 0.21913 GD = 0.04277 IGD = 0.04197 IGD+ = 0.04197
+Run n° 15 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.03190 GD = 0.00383 IGD = 0.57645 IGD+ = 0.32543
+NSGA2 : Hv = 0.22022 GD = 0.04126 IGD = 0.04175 IGD+ = 0.04175
+NSGA3 : Hv = 0.17191 GD = 0.09086 IGD = 0.09316 IGD+ = 0.09316
+RVEA : Hv = 0.08798 GD = 0.25650 IGD = 0.20978 IGD+ = 0.20976
+MOEAD : Hv = 0.22854 GD = 0.06920 IGD = 0.03346 IGD+ = 0.03345
+AGEMOEA : Hv = 0.21845 GD = 0.04297 IGD = 0.04241 IGD+ = 0.04241
+Run n° 16 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.10231 GD = 0.00449 IGD = 0.39863 IGD+ = 0.24658
+NSGA2 : Hv = 0.23720 GD = 0.02519 IGD = 0.02549 IGD+ = 0.02549
+NSGA3 : Hv = 0.21411 GD = 0.04672 IGD = 0.04597 IGD+ = 0.04597
+RVEA : Hv = 0.09012 GD = 0.21203 IGD = 0.20119 IGD+ = 0.20119
+MOEAD : Hv = 0.21716 GD = 0.05249 IGD = 0.04409 IGD+ = 0.04408
+AGEMOEA : Hv = 0.22698 GD = 0.03548 IGD = 0.03481 IGD+ = 0.03481
+Run n° 17 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.12139 GD = 0.00531 IGD = 0.33675 IGD+ = 0.21000
+NSGA2 : Hv = 0.21215 GD = 0.04962 IGD = 0.04992 IGD+ = 0.04992
+NSGA3 : Hv = 0.19433 GD = 0.06674 IGD = 0.06625 IGD+ = 0.06625
+RVEA : Hv = 0.08536 GD = 0.21095 IGD = 0.21704 IGD+ = 0.21704
+MOEAD : Hv = 0.24170 GD = 0.02211 IGD = 0.02154 IGD+ = 0.02154
+AGEMOEA : Hv = 0.22855 GD = 0.03357 IGD = 0.03326 IGD+ = 0.03326
+Run n° 18 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.03073 GD = 0.00681 IGD = 0.57959 IGD+ = 0.32630
+NSGA2 : Hv = 0.22661 GD = 0.03532 IGD = 0.03484 IGD+ = 0.03484
+NSGA3 : Hv = 0.21455 GD = 0.04690 IGD = 0.04739 IGD+ = 0.04739
+RVEA : Hv = 0.08856 GD = 0.20920 IGD = 0.20439 IGD+ = 0.20439
+MOEAD : Hv = 0.20965 GD = 0.07734 IGD = 0.05103 IGD+ = 0.05103
+AGEMOEA : Hv = 0.21392 GD = 0.04784 IGD = 0.04641 IGD+ = 0.04641
+Run n° 19 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.07501 GD = 0.00503 IGD = 0.46633 IGD+ = 0.27878
+NSGA2 : Hv = 0.21130 GD = 0.04987 IGD = 0.05059 IGD+ = 0.05059
+NSGA3 : Hv = 0.21020 GD = 0.05098 IGD = 0.05076 IGD+ = 0.05076
+RVEA : Hv = 0.07902 GD = 0.22734 IGD = 0.21447 IGD+ = 0.21447
+MOEAD : Hv = 0.07570 GD = 0.20741 IGD = 0.24335 IGD+ = 0.24335
+AGEMOEA : Hv = 0.22699 GD = 0.03501 IGD = 0.03500 IGD+ = 0.03500
+Run n° 20 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.05851 GD = 0.00455 IGD = 0.50953 IGD+ = 0.29666
+NSGA2 : Hv = 0.22841 GD = 0.03376 IGD = 0.03345 IGD+ = 0.03345
+NSGA3 : Hv = 0.20817 GD = 0.05269 IGD = 0.05266 IGD+ = 0.05266
+RVEA : Hv = 0.06754 GD = 0.24048 IGD = 0.22337 IGD+ = 0.22337
+MOEAD : Hv = 0.23264 GD = 0.02881 IGD = 0.02971 IGD+ = 0.02970
+AGEMOEA : Hv = 0.21061 GD = 0.05112 IGD = 0.05129 IGD+ = 0.05129
+Run n° 21 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00490 GD = 0.00418 IGD = 0.64280 IGD+ = 0.35431
+NSGA2 : Hv = 0.20478 GD = 0.05651 IGD = 0.05624 IGD+ = 0.05624
+NSGA3 : Hv = 0.18499 GD = 0.07635 IGD = 0.07764 IGD+ = 0.07764
+RVEA : Hv = 0.01495 GD = 0.37780 IGD = 0.38190 IGD+ = 0.38190
+MOEAD : Hv = 0.21747 GD = 0.10075 IGD = 0.04391 IGD+ = 0.04391
+AGEMOEA : Hv = 0.22346 GD = 0.03822 IGD = 0.03861 IGD+ = 0.03861
+Run n° 22 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.09127 GD = 0.00328 IGD = 0.42308 IGD+ = 0.26086
+NSGA2 : Hv = 0.21826 GD = 0.04317 IGD = 0.04339 IGD+ = 0.04339
+NSGA3 : Hv = 0.20726 GD = 0.05408 IGD = 0.05454 IGD+ = 0.05454
+RVEA : Hv = 0.07213 GD = 0.23378 IGD = 0.22578 IGD+ = 0.22578
+MOEAD : Hv = 0.22979 GD = 0.03034 IGD = 0.03155 IGD+ = 0.03154
+AGEMOEA : Hv = 0.22613 GD = 0.03595 IGD = 0.03611 IGD+ = 0.03611
+Run n° 23 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.08940 GD = 0.00559 IGD = 0.42711 IGD+ = 0.26305
+NSGA2 : Hv = 0.22088 GD = 0.04112 IGD = 0.04078 IGD+ = 0.04078
+NSGA3 : Hv = 0.21486 GD = 0.04634 IGD = 0.04631 IGD+ = 0.04631
+RVEA : Hv = 0.07576 GD = 0.24628 IGD = 0.22071 IGD+ = 0.22071
+MOEAD : Hv = 0.21826 GD = 0.04428 IGD = 0.04065 IGD+ = 0.04065
+AGEMOEA : Hv = 0.22693 GD = 0.03523 IGD = 0.03494 IGD+ = 0.03494
+Run n° 24 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.08299 GD = 0.00630 IGD = 0.44503 IGD+ = 0.27001
+NSGA2 : Hv = 0.21981 GD = 0.04192 IGD = 0.04233 IGD+ = 0.04233
+NSGA3 : Hv = 0.18631 GD = 0.07600 IGD = 0.07809 IGD+ = 0.07809
+RVEA : Hv = 0.09676 GD = 0.19551 IGD = 0.18601 IGD+ = 0.18601
+MOEAD : Hv = 0.21500 GD = 0.04851 IGD = 0.04609 IGD+ = 0.04609
+AGEMOEA : Hv = 0.21296 GD = 0.04889 IGD = 0.04830 IGD+ = 0.04830
+Run n° 25 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.10301 GD = 0.00155 IGD = 0.38839 IGD+ = 0.24797
+NSGA2 : Hv = 0.22005 GD = 0.04140 IGD = 0.04173 IGD+ = 0.04173
+NSGA3 : Hv = 0.21988 GD = 0.04099 IGD = 0.04120 IGD+ = 0.04120
+RVEA : Hv = 0.11484 GD = 0.16633 IGD = 0.15967 IGD+ = 0.15967
+MOEAD : Hv = 0.22379 GD = 0.06486 IGD = 0.03753 IGD+ = 0.03753
+AGEMOEA : Hv = 0.23318 GD = 0.02964 IGD = 0.02916 IGD+ = 0.02916
+Run n° 26 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.04246 GD = 0.00581 IGD = 0.55127 IGD+ = 0.31391
+NSGA2 : Hv = 0.21151 GD = 0.05014 IGD = 0.04985 IGD+ = 0.04985
+NSGA3 : Hv = 0.20542 GD = 0.05540 IGD = 0.05560 IGD+ = 0.05560
+RVEA : Hv = 0.07448 GD = 0.24024 IGD = 0.22617 IGD+ = 0.22617
+MOEAD : Hv = 0.22485 GD = 0.06943 IGD = 0.03556 IGD+ = 0.03556
+AGEMOEA : Hv = 0.23641 GD = 0.02624 IGD = 0.02620 IGD+ = 0.02620
+Run n° 27 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.13854 GD = 0.00632 IGD = 0.30587 IGD+ = 0.19998
+NSGA2 : Hv = 0.22682 GD = 0.03503 IGD = 0.03510 IGD+ = 0.03510
+NSGA3 : Hv = 0.20788 GD = 0.05333 IGD = 0.05306 IGD+ = 0.05306
+RVEA : Hv = 0.06561 GD = 0.26846 IGD = 0.23986 IGD+ = 0.23986
+MOEAD : Hv = 0.21789 GD = 0.04210 IGD = 0.04147 IGD+ = 0.04143
+AGEMOEA : Hv = 0.22728 GD = 0.03474 IGD = 0.03468 IGD+ = 0.03468
+Run n° 28 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.04771 GD = 0.00480 IGD = 0.53585 IGD+ = 0.30842
+NSGA2 : Hv = 0.23792 GD = 0.02483 IGD = 0.02469 IGD+ = 0.02469
+NSGA3 : Hv = 0.21145 GD = 0.04957 IGD = 0.04942 IGD+ = 0.04941
+RVEA : Hv = 0.06999 GD = 0.24123 IGD = 0.23170 IGD+ = 0.23170
+MOEAD : Hv = 0.21236 GD = 0.05884 IGD = 0.04783 IGD+ = 0.04783
+AGEMOEA : Hv = 0.22603 GD = 0.03579 IGD = 0.03589 IGD+ = 0.03589
+Run n° 29 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.00848 GD = 0.00566 IGD = 0.63315 IGD+ = 0.35038
+NSGA2 : Hv = 0.23373 GD = 0.02848 IGD = 0.02883 IGD+ = 0.02883
+NSGA3 : Hv = 0.19119 GD = 0.07052 IGD = 0.07204 IGD+ = 0.07204
+RVEA : Hv = 0.07888 GD = 0.23331 IGD = 0.21007 IGD+ = 0.21007
+MOEAD : Hv = 0.22555 GD = 0.03572 IGD = 0.03575 IGD+ = 0.03575
+AGEMOEA : Hv = 0.22986 GD = 0.03249 IGD = 0.03217 IGD+ = 0.03217
+Run n° 30 / 30
+*** PROBLEM : ZDT6 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  249
+NIBEA : Hv = 0.02043 GD = 0.00449 IGD = 0.60442 IGD+ = 0.33776
+NSGA2 : Hv = 0.18598 GD = 0.07598 IGD = 0.07827 IGD+ = 0.07827
+NSGA3 : Hv = 0.20398 GD = 0.05648 IGD = 0.05744 IGD+ = 0.05744
+RVEA : Hv = 0.08127 GD = 0.22095 IGD = 0.20113 IGD+ = 0.20113
+MOEAD : Hv = 0.22712 GD = 0.05761 IGD = 0.03424 IGD+ = 0.03420
+AGEMOEA : Hv = 0.21915 GD = 0.04260 IGD = 0.04148 IGD+ = 0.04148
+GENERATING AND SAVING FIGURES...
+[ZDT6] Box plots successfully saved to: generated/final/ZDT6_boxplots.png
+Selected run #9 as the median. (HV = 0.06862)
+Selected run #23 as the median. (HV = 0.22088)
+Selected run #10 as the median. (HV = 0.20796)
+Selected run #29 as the median. (HV = 0.07888)
+Selected run #26 as the median. (HV = 0.22485)
+Selected run #22 as the median. (HV = 0.22613)
+Run n°  1 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03381 GD = 0.00354 IGD = 0.23959 IGD+ = 0.16323
+NSGA2 : Hv = 0.09595 GD = 0.01531 IGD = 0.02773 IGD+ = 0.01868
+NSGA3 : Hv = 0.09819 GD = 0.01541 IGD = 0.01965 IGD+ = 0.01459
+RVEA : Hv = 0.09865 GD = 0.01542 IGD = 0.01958 IGD+ = 0.01335
+MOEAD : Hv = 0.09811 GD = 0.01549 IGD = 0.01969 IGD+ = 0.01482
+AGEMOEA : Hv = 0.09812 GD = 0.01665 IGD = 0.02171 IGD+ = 0.01533
+Run n°  2 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03562 GD = 0.01344 IGD = 0.22551 IGD+ = 0.15043
+NSGA2 : Hv = 0.09535 GD = 0.01549 IGD = 0.02810 IGD+ = 0.02046
+NSGA3 : Hv = 0.09731 GD = 0.01614 IGD = 0.02030 IGD+ = 0.01693
+RVEA : Hv = 0.09854 GD = 0.01536 IGD = 0.01959 IGD+ = 0.01371
+MOEAD : Hv = 0.09726 GD = 0.01674 IGD = 0.02091 IGD+ = 0.01701
+AGEMOEA : Hv = 0.09844 GD = 0.01578 IGD = 0.02049 IGD+ = 0.01410
+Run n°  3 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03944 GD = 0.00465 IGD = 0.20048 IGD+ = 0.13109
+NSGA2 : Hv = 0.00000 GD = 1.47059 IGD = 1.17103 IGD+ = 1.17103
+NSGA3 : Hv = 0.01043 GD = 0.37057 IGD = 0.30150 IGD+ = 0.30150
+RVEA : Hv = 0.09835 GD = 0.01538 IGD = 0.01961 IGD+ = 0.01420
+MOEAD : Hv = 0.00000 GD = 0.73773 IGD = 0.58816 IGD+ = 0.58816
+AGEMOEA : Hv = 0.09753 GD = 0.01590 IGD = 0.02116 IGD+ = 0.01666
+Run n°  4 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03569 GD = 0.02320 IGD = 0.22724 IGD+ = 0.15256
+NSGA2 : Hv = 0.00981 GD = 0.34303 IGD = 0.29779 IGD+ = 0.29779
+NSGA3 : Hv = 0.09867 GD = 0.01537 IGD = 0.01959 IGD+ = 0.01340
+RVEA : Hv = 0.09866 GD = 0.01538 IGD = 0.01960 IGD+ = 0.01342
+MOEAD : Hv = 0.00000 GD = 2.48229 IGD = 2.02904 IGD+ = 2.02904
+AGEMOEA : Hv = 0.09776 GD = 0.01652 IGD = 0.02122 IGD+ = 0.01651
+Run n°  5 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.04141 GD = 0.01964 IGD = 0.19509 IGD+ = 0.12611
+NSGA2 : Hv = 0.00906 GD = 0.34868 IGD = 0.29951 IGD+ = 0.29951
+NSGA3 : Hv = 0.09866 GD = 0.01538 IGD = 0.01960 IGD+ = 0.01343
+RVEA : Hv = 0.09867 GD = 0.01538 IGD = 0.01960 IGD+ = 0.01340
+MOEAD : Hv = 0.00000 GD = 0.69676 IGD = 0.46196 IGD+ = 0.45683
+AGEMOEA : Hv = 0.09855 GD = 0.01581 IGD = 0.02058 IGD+ = 0.01438
+Run n°  6 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.04452 GD = 0.01156 IGD = 0.18720 IGD+ = 0.12254
+NSGA2 : Hv = 0.00978 GD = 0.36042 IGD = 0.29792 IGD+ = 0.29792
+NSGA3 : Hv = 0.01161 GD = 0.33241 IGD = 0.29170 IGD+ = 0.29170
+RVEA : Hv = 0.09866 GD = 0.01537 IGD = 0.01960 IGD+ = 0.01341
+MOEAD : Hv = 0.00000 GD = 1.04224 IGD = 0.87085 IGD+ = 0.87085
+AGEMOEA : Hv = 0.09781 GD = 0.01566 IGD = 0.02079 IGD+ = 0.01628
+Run n°  7 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.04333 GD = 0.00452 IGD = 0.19911 IGD+ = 0.13130
+NSGA2 : Hv = 0.08960 GD = 0.05411 IGD = 0.04281 IGD+ = 0.03259
+NSGA3 : Hv = 0.01009 GD = 0.34756 IGD = 0.30445 IGD+ = 0.30445
+RVEA : Hv = 0.09859 GD = 0.01536 IGD = 0.01959 IGD+ = 0.01360
+MOEAD : Hv = 0.00000 GD = 0.84771 IGD = 0.59845 IGD+ = 0.59845
+AGEMOEA : Hv = 0.09857 GD = 0.01558 IGD = 0.02046 IGD+ = 0.01408
+Run n°  8 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03937 GD = 0.00207 IGD = 0.20544 IGD+ = 0.13369
+NSGA2 : Hv = 0.00470 GD = 0.45312 IGD = 0.32239 IGD+ = 0.32239
+NSGA3 : Hv = 0.09823 GD = 0.01541 IGD = 0.01964 IGD+ = 0.01449
+RVEA : Hv = 0.09847 GD = 0.01538 IGD = 0.01961 IGD+ = 0.01390
+MOEAD : Hv = 0.00000 GD = 1.40880 IGD = 1.18235 IGD+ = 1.18235
+AGEMOEA : Hv = 0.09848 GD = 0.01511 IGD = 0.01996 IGD+ = 0.01381
+Run n°  9 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03364 GD = 0.01705 IGD = 0.24569 IGD+ = 0.16494
+NSGA2 : Hv = 0.09561 GD = 0.01556 IGD = 0.02953 IGD+ = 0.02005
+NSGA3 : Hv = 0.09631 GD = 0.01789 IGD = 0.02182 IGD+ = 0.01969
+RVEA : Hv = 0.09843 GD = 0.01536 IGD = 0.01959 IGD+ = 0.01399
+MOEAD : Hv = 0.00000 GD = 0.71498 IGD = 0.60597 IGD+ = 0.60597
+AGEMOEA : Hv = 0.09845 GD = 0.01617 IGD = 0.02068 IGD+ = 0.01410
+Run n° 10 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.04031 GD = 0.00916 IGD = 0.19509 IGD+ = 0.12614
+NSGA2 : Hv = 0.00969 GD = 0.41036 IGD = 0.30094 IGD+ = 0.30094
+NSGA3 : Hv = 0.00958 GD = 0.36384 IGD = 0.30013 IGD+ = 0.30013
+RVEA : Hv = 0.01154 GD = 0.33288 IGD = 0.29210 IGD+ = 0.29210
+MOEAD : Hv = 0.00938 GD = 0.40151 IGD = 0.29983 IGD+ = 0.29983
+AGEMOEA : Hv = 0.09728 GD = 0.01715 IGD = 0.02164 IGD+ = 0.01775
+Run n° 11 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.04106 GD = 0.01743 IGD = 0.19422 IGD+ = 0.12565
+NSGA2 : Hv = 0.00000 GD = 0.72020 IGD = 0.59302 IGD+ = 0.59302
+NSGA3 : Hv = 0.02570 GD = 0.33505 IGD = 0.23190 IGD+ = 0.20149
+RVEA : Hv = 0.09818 GD = 0.01543 IGD = 0.01966 IGD+ = 0.01465
+MOEAD : Hv = 0.09802 GD = 0.01545 IGD = 0.01970 IGD+ = 0.01500
+AGEMOEA : Hv = 0.09841 GD = 0.01670 IGD = 0.02137 IGD+ = 0.01509
+Run n° 12 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03751 GD = 0.02304 IGD = 0.21898 IGD+ = 0.14457
+NSGA2 : Hv = 0.01034 GD = 0.34554 IGD = 0.29732 IGD+ = 0.29732
+NSGA3 : Hv = 0.09852 GD = 0.01539 IGD = 0.01961 IGD+ = 0.01376
+RVEA : Hv = 0.09860 GD = 0.01536 IGD = 0.01959 IGD+ = 0.01357
+MOEAD : Hv = 0.01141 GD = 0.32811 IGD = 0.29382 IGD+ = 0.29382
+AGEMOEA : Hv = 0.09844 GD = 0.01520 IGD = 0.02008 IGD+ = 0.01393
+Run n° 13 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03457 GD = 0.01787 IGD = 0.24456 IGD+ = 0.16480
+NSGA2 : Hv = 0.09464 GD = 0.01593 IGD = 0.03031 IGD+ = 0.02230
+NSGA3 : Hv = 0.09858 GD = 0.01536 IGD = 0.01960 IGD+ = 0.01360
+RVEA : Hv = 0.09858 GD = 0.01540 IGD = 0.01957 IGD+ = 0.01352
+MOEAD : Hv = 0.00000 GD = 1.84323 IGD = 1.46721 IGD+ = 1.46721
+AGEMOEA : Hv = 0.09843 GD = 0.01587 IGD = 0.02120 IGD+ = 0.01470
+Run n° 14 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.00000 GD = 0.28876 IGD = 0.41275 IGD+ = 0.40556
+NSGA2 : Hv = 0.00259 GD = 3.66477 IGD = 0.35349 IGD+ = 0.35298
+NSGA3 : Hv = 0.09759 GD = 0.01771 IGD = 0.02171 IGD+ = 0.01588
+RVEA : Hv = 0.09862 GD = 0.01537 IGD = 0.01959 IGD+ = 0.01351
+MOEAD : Hv = 0.01154 GD = 0.33277 IGD = 0.29209 IGD+ = 0.29209
+AGEMOEA : Hv = 0.09837 GD = 0.01413 IGD = 0.01974 IGD+ = 0.01382
+Run n° 15 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.04173 GD = 0.02088 IGD = 0.20036 IGD+ = 0.12996
+NSGA2 : Hv = 0.09511 GD = 0.01536 IGD = 0.02886 IGD+ = 0.02017
+NSGA3 : Hv = 0.09860 GD = 0.01535 IGD = 0.01954 IGD+ = 0.01352
+RVEA : Hv = 0.09866 GD = 0.01538 IGD = 0.01960 IGD+ = 0.01341
+MOEAD : Hv = 0.09822 GD = 0.01580 IGD = 0.01988 IGD+ = 0.01465
+AGEMOEA : Hv = 0.01224 GD = 0.33044 IGD = 0.29209 IGD+ = 0.29209
+Run n° 16 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.04154 GD = 0.01268 IGD = 0.19345 IGD+ = 0.12511
+NSGA2 : Hv = 0.09542 GD = 0.01587 IGD = 0.02930 IGD+ = 0.01965
+NSGA3 : Hv = 0.01155 GD = 0.33280 IGD = 0.29203 IGD+ = 0.29203
+RVEA : Hv = 0.01160 GD = 0.33243 IGD = 0.29172 IGD+ = 0.29172
+MOEAD : Hv = 0.01059 GD = 0.34209 IGD = 0.30009 IGD+ = 0.30009
+AGEMOEA : Hv = 0.09819 GD = 0.01585 IGD = 0.02073 IGD+ = 0.01486
+Run n° 17 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03600 GD = 0.02009 IGD = 0.21678 IGD+ = 0.14271
+NSGA2 : Hv = 0.00000 GD = 1.07113 IGD = 0.87542 IGD+ = 0.87542
+NSGA3 : Hv = 0.09859 GD = 0.01532 IGD = 0.01955 IGD+ = 0.01346
+RVEA : Hv = 0.09859 GD = 0.01537 IGD = 0.01960 IGD+ = 0.01360
+MOEAD : Hv = 0.01076 GD = 0.33990 IGD = 0.29882 IGD+ = 0.29882
+AGEMOEA : Hv = 0.09844 GD = 0.01477 IGD = 0.02048 IGD+ = 0.01403
+Run n° 18 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.00000 GD = 0.28860 IGD = 0.43689 IGD+ = 0.42797
+NSGA2 : Hv = 0.00859 GD = 0.35345 IGD = 0.31152 IGD+ = 0.31152
+NSGA3 : Hv = 0.09834 GD = 0.01537 IGD = 0.01961 IGD+ = 0.01421
+RVEA : Hv = 0.09814 GD = 0.01545 IGD = 0.01968 IGD+ = 0.01474
+MOEAD : Hv = 0.00000 GD = 2.12175 IGD = 1.74038 IGD+ = 1.74038
+AGEMOEA : Hv = 0.09843 GD = 0.01548 IGD = 0.02042 IGD+ = 0.01446
+Run n° 19 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.04501 GD = 0.01095 IGD = 0.17743 IGD+ = 0.11402
+NSGA2 : Hv = 0.01134 GD = 0.34620 IGD = 0.29692 IGD+ = 0.29692
+NSGA3 : Hv = 0.09861 GD = 0.01551 IGD = 0.01964 IGD+ = 0.01353
+RVEA : Hv = 0.09815 GD = 0.01446 IGD = 0.01992 IGD+ = 0.01480
+MOEAD : Hv = 0.00000 GD = 0.73624 IGD = 0.60009 IGD+ = 0.60009
+AGEMOEA : Hv = 0.09061 GD = 0.13559 IGD = 0.04473 IGD+ = 0.03217
+Run n° 20 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03552 GD = 0.01610 IGD = 0.23122 IGD+ = 0.15370
+NSGA2 : Hv = 0.00000 GD = 0.71883 IGD = 0.58747 IGD+ = 0.58747
+NSGA3 : Hv = 0.09845 GD = 0.01537 IGD = 0.01958 IGD+ = 0.01392
+RVEA : Hv = 0.09865 GD = 0.01537 IGD = 0.01959 IGD+ = 0.01344
+MOEAD : Hv = 0.09165 GD = 0.01877 IGD = 0.03499 IGD+ = 0.02769
+AGEMOEA : Hv = 0.09830 GD = 0.01547 IGD = 0.02060 IGD+ = 0.01484
+Run n° 21 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03616 GD = 0.00427 IGD = 0.21797 IGD+ = 0.14371
+NSGA2 : Hv = 0.01139 GD = 0.34347 IGD = 0.29463 IGD+ = 0.29463
+NSGA3 : Hv = 0.09846 GD = 0.01539 IGD = 0.01961 IGD+ = 0.01392
+RVEA : Hv = 0.09866 GD = 0.01539 IGD = 0.01960 IGD+ = 0.01342
+MOEAD : Hv = 0.09287 GD = 0.01696 IGD = 0.02765 IGD+ = 0.01957
+AGEMOEA : Hv = 0.09843 GD = 0.02088 IGD = 0.02011 IGD+ = 0.01417
+Run n° 22 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03932 GD = 0.00829 IGD = 0.21339 IGD+ = 0.14159
+NSGA2 : Hv = 0.09501 GD = 0.01581 IGD = 0.02730 IGD+ = 0.01890
+NSGA3 : Hv = 0.09865 GD = 0.01538 IGD = 0.01960 IGD+ = 0.01344
+RVEA : Hv = 0.09861 GD = 0.01537 IGD = 0.01959 IGD+ = 0.01353
+MOEAD : Hv = 0.09689 GD = 0.01671 IGD = 0.02193 IGD+ = 0.01789
+AGEMOEA : Hv = 0.09754 GD = 0.01726 IGD = 0.02160 IGD+ = 0.01742
+Run n° 23 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03418 GD = 0.01396 IGD = 0.23773 IGD+ = 0.15925
+NSGA2 : Hv = 0.09605 GD = 0.01547 IGD = 0.02724 IGD+ = 0.01871
+NSGA3 : Hv = 0.01147 GD = 0.33352 IGD = 0.29273 IGD+ = 0.29273
+RVEA : Hv = 0.09865 GD = 0.01538 IGD = 0.01959 IGD+ = 0.01343
+MOEAD : Hv = 0.00000 GD = 1.04929 IGD = 0.87405 IGD+ = 0.87405
+AGEMOEA : Hv = 0.09852 GD = 0.01606 IGD = 0.02054 IGD+ = 0.01395
+Run n° 24 / 30
+*** PROBLEM : DTLZ1 ***
+...Using custom selection
+...Using custom infills 1a
+...Using adaptive_k: False
+...Using FitMin: False
+...Using TempPopMethod: 0
+...Using SelectPop: 2
+...Using EnvSelectionMethod: crowd
+...Using sc_method: 0
+...Using exact_method: epsilon
+...Using tau (elite set size): 1
+...Using lambda (distance weight): 0.1
+algorithm.count_sel_pop =  499
+NIBEA : Hv = 0.03294 GD = 0.01813 IGD = 0.25443 IGD+ = 0.17146
+NSGA2 : Hv = 0.09514 GD = 0.01599 IGD = 0.03098 IGD+ = 0.02096
+NSGA3 : Hv = 0.01168 GD = 0.33231 IGD = 0.29177 IGD+ = 0.29177
+RVEA : Hv = 0.01159 GD = 0.33246 IGD = 0.29175 IGD+ = 0.29175
